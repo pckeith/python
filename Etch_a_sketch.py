@@ -1,5 +1,21 @@
 #***********************************************
-# Etch a sketch game (using Python Turtle):    *
+# Etch a sketch Game:                          *
+# Author:    Keith Caldwell                    *
+# Date:      July 13,2026                      *
+#***********************************************
+# Description:                                 *
+# This task is Day 18 of 100 days of Python:   *
+# I'm already a highly experienced developer,  *
+# and the first days were not overly           *
+# challenging, although I must say the Python  *
+# language is quite different from Microsoft   *
+# PowerShell, where I had built up expertise   *
+# in recent years. Python is where I need to   *
+# be, so the sheer iterations getting used     *
+# some things about Python in these early      *
+# practice days has been helpful. I've         *
+# included comments regarding the              *
+# functionality of this program below:         *
 #***********************************************
 #     This game emulates the classic Etch A    *
 #     Sketch game, originally created by the   *

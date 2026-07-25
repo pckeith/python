@@ -1,5 +1,21 @@
 #***********************************************
 # Turtle Race:                                 *
+# Author:    Keith Caldwell                    *
+# Date:      July 14,2026                      *
+#***********************************************
+# Description:                                 *
+# This task is Day 19 of 100 days of Python:   *
+# I'm already a highly experienced developer,  *
+# and the first days were not overly           *
+# challenging, although I must say the Python  *
+# language is quite different from Microsoft   *
+# PowerShell, where I had built up expertise   *
+# in recent years. Python is where I need to   *
+# be, so the sheer iterations getting used     *
+# some things about Python in these early      *
+# practice days has been helpful. I've         *
+# included comments regarding the              *
+# functionality of this program below:         *
 #***********************************************
 #     This game will create 7 turtles, each    *
 #     with a different color of the rainbow:   *
