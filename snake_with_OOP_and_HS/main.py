@@ -1,3 +1,35 @@
+#*************************************************
+# Snake Game (with OOP and High Score):          *
+# Author:    Keith Caldwell                      *
+# Date:      July 22,2026                        *
+#*************************************************
+# Description:                                   *
+# For Day 24 of the 100 Day Python boot camp,    *
+# we re-did the Snake game we had done a few     *
+# days previously, however this time we upgraded *
+# the game to use OOP principles, and also added *
+# a local file the game reads from and writes to *
+# in order to maintain persistent data, used to  *
+# maintain high score from game to game.         *
+#                                                *
+# This is the classic Snake game you may have    *
+# played previously in some video arcade, or     *
+# (I've been told) on some very old Nokia        *
+# "Brick" phones. You navigate the snake around  *
+# using the arrow keys, with an objective of     *
+# gaining more points by eating more food. The   *
+# problem with eating more food, however, is     *
+# the snake's tail gets longer and longer,       *
+# eventually  becoming impossible not to run     *
+# into it.                                       *
+#                                                *
+# The snake is self-powered. The only thing the  *
+# player needs to do, is to keep the snake       *
+# moving forward, and not either running into a  *
+# wall, or running into it's own tail. Sounds    *
+# simple, right? Give this one a shot and you'll *
+# see how challenging it can be!                 *
+#*************************************************
 from turtle import Screen
 from snake import Snake
 from food import Food
