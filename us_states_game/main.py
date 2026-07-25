@@ -1,3 +1,36 @@
+#*************************************************
+# US States Game:                                *
+# Author:    Keith Caldwell                      *
+# Date:      July 24,2026                        *
+#*************************************************
+# Description:                                   *
+# This task is Day 25 of 100 days of Python:     *
+# One of the main reasons I'm learning Python,   *
+# is to advance my skills as a Senior Data       *
+# Analyst, even to the point of hopefully        *
+# beginning to work on Modern Data Engineering   *
+# projects, targeting Modern Data Warehouses,    *
+# some of which I've already had some exposure   *
+# to.                                            *
+#                                                *
+# The signifigance of Day 25 is, we're finally   *
+# starting to move into the areas which will be  *
+# useful for Data Analysis and Data Engineering! *
+# Today, we're finally starting to work with the *
+# Pandas library, something I've been waiting    *
+# weeks for! This week we started to work with   *
+# some public datasets we used Pandas for (not   *
+# super messy or gigantic yet, but you need to   *
+# walk before you can run, right?                *
+#                                                *
+# This game itself is a fairly straightforward   *
+# use of the Pandas library, to read and write   *
+# to a couple datasets using the DataFrame data  *
+# structure for tabular data. This was just the  *
+# beginning, Angela says we'll be doing a lot    *
+# more complex things with Pandas, NumPy,        *
+# Matplotlib and others in the days ahead!!      *
+#*************************************************
 from turtle import Turtle, Screen
 import os
 from pathlib import Path
