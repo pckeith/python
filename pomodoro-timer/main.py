@@ -65,8 +65,8 @@ FONT_NAME = "Courier"
 TIMER = "Timer"
 BREAK = "Break"
 CHECK_MARK = "✓"
-WORK_MIN = .5
-SHORT_BREAK_MIN = .1
+WORK_MIN = 25
+SHORT_BREAK_MIN = 5
 
 
 # Global variables
