@@ -1,7 +1,7 @@
 #*************************************************
 # Password Manager:                              *
 # Author:    Keith Caldwell                      *
-# Date:      July 28,2026                        *
+# Date:      July 29,2026                        *
 #*************************************************
 # Description:                                   *
 # This task is Day 29 of 100 days of Python:     *
@@ -9,16 +9,23 @@
 # Python tkinter library, and how to make even   *
 # more professional looking windows apps. The    *
 # app we're building today is a password         *
-# manager. Like the professional password        *
-# managers, the password app I'm building today  *
+# manager.                                       *
+#                                                *
+# Similar to the professional password managers  *
+# managers commonly available commercially, the  *
+# the password manager I'm building today will   *
 # will allow building of passwords much like     *
-# other modern password managers, and then will  *
-# store results on your computer - which some    *
-# will argue may be more safe than a remote 3rd  *
-# party vault (such as LastPass, etc.), which    *
-# would certainly employ many security           *
-# features, however would also be a constant     *
-# target target for many skilled hackers.        *
+# other modern password managers. However, this  *
+# password manager will store results on your    *
+# computer (instead of a centralized database).  *
+#                                                *
+# There are some who will argue this may         *
+# actually be more safe than a remote 3rd party  *
+# vault (such as LastPass, etc.). These          *
+# commercial products would certainly be         *
+# expected to employ many security features,     *
+# however would also be a well-known and         *
+# constant target for many skilled hackers.      *
 #*************************************************
 from tkinter import *
 from pathlib import *
