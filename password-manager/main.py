@@ -135,7 +135,7 @@ label2.grid(row=2, column=0)
 
 entry2 = Entry(window, relief="solid", width=35)
 entry2.grid(row=2, column=1, columnspan=2, sticky="ew")
-entry2.insert(0,"keith.caldwell@masterdataconnect.com")
+entry2.insert(0,"your_email@your_company.com")
 
 #******************************
 # Third Row Elements          *
