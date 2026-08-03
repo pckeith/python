@@ -1,0 +1,4997 @@
+[
+    {
+        "Portuguese": "que",
+        "English": "what",
+        "Frequency": 9477531
+    },
+    {
+        "Portuguese": "n\u00e3o",
+        "English": "no",
+        "Frequency": 7770387
+    },
+    {
+        "Portuguese": "de",
+        "English": "of",
+        "Frequency": 6221815
+    },
+    {
+        "Portuguese": "voc\u00ea",
+        "English": "you",
+        "Frequency": 4513230
+    },
+    {
+        "Portuguese": "eu",
+        "English": "I",
+        "Frequency": 4103854
+    },
+    {
+        "Portuguese": "um",
+        "English": "one",
+        "Frequency": 3563693
+    },
+    {
+        "Portuguese": "para",
+        "English": "to",
+        "Frequency": 2811080
+    },
+    {
+        "Portuguese": "se",
+        "English": "if",
+        "Frequency": 2796049
+    },
+    {
+        "Portuguese": "est\u00e1",
+        "English": "this",
+        "Frequency": 2754214
+    },
+    {
+        "Portuguese": "uma",
+        "English": "one",
+        "Frequency": 2401855
+    },
+    {
+        "Portuguese": "com",
+        "English": "with",
+        "Frequency": 2314658
+    },
+    {
+        "Portuguese": "me",
+        "English": "me",
+        "Frequency": 2182820
+    },
+    {
+        "Portuguese": "por",
+        "English": "put",
+        "Frequency": 2099013
+    },
+    {
+        "Portuguese": "ele",
+        "English": "he",
+        "Frequency": 2013798
+    },
+    {
+        "Portuguese": "isso",
+        "English": "that",
+        "Frequency": 1989139
+    },
+    {
+        "Portuguese": "em",
+        "English": "in",
+        "Frequency": 1801978
+    },
+    {
+        "Portuguese": "do",
+        "English": "of",
+        "Frequency": 1752303
+    },
+    {
+        "Portuguese": "bem",
+        "English": "good",
+        "Frequency": 1515797
+    },
+    {
+        "Portuguese": "mas",
+        "English": "but",
+        "Frequency": 1468594
+    },
+    {
+        "Portuguese": "como",
+        "English": "as",
+        "Frequency": 1451186
+    },
+    {
+        "Portuguese": "da",
+        "English": "from the",
+        "Frequency": 1328192
+    },
+    {
+        "Portuguese": "os",
+        "English": "you",
+        "Frequency": 1275882
+    },
+    {
+        "Portuguese": "no",
+        "English": "node",
+        "Frequency": 1234867
+    },
+    {
+        "Portuguese": "aqui",
+        "English": "here",
+        "Frequency": 1169045
+    },
+    {
+        "Portuguese": "na",
+        "English": "in",
+        "Frequency": 1144851
+    },
+    {
+        "Portuguese": "sim",
+        "English": "Yes",
+        "Frequency": 1133922
+    },
+    {
+        "Portuguese": "ela",
+        "English": "she",
+        "Frequency": 1092440
+    },
+    {
+        "Portuguese": "mais",
+        "English": "more",
+        "Frequency": 1092159
+    },
+    {
+        "Portuguese": "tem",
+        "English": "he has",
+        "Frequency": 1077141
+    },
+    {
+        "Portuguese": "meu",
+        "English": "my",
+        "Frequency": 1036207
+    },
+    {
+        "Portuguese": "seu",
+        "English": "your",
+        "Frequency": 991282
+    },
+    {
+        "Portuguese": "vai",
+        "English": "go",
+        "Frequency": 960871
+    },
+    {
+        "Portuguese": "as",
+        "English": "to the",
+        "Frequency": 952749
+    },
+    {
+        "Portuguese": "muito",
+        "English": "very",
+        "Frequency": 943025
+    },
+    {
+        "Portuguese": "vamos",
+        "English": "let's",
+        "Frequency": 940856
+    },
+    {
+        "Portuguese": "foi",
+        "English": "he was",
+        "Frequency": 928393
+    },
+    {
+        "Portuguese": "estou",
+        "English": "I am",
+        "Frequency": 926386
+    },
+    {
+        "Portuguese": "sua",
+        "English": "your",
+        "Frequency": 911167
+    },
+    {
+        "Portuguese": "tudo",
+        "English": "all",
+        "Frequency": 833880
+    },
+    {
+        "Portuguese": "s\u00f3",
+        "English": "only",
+        "Frequency": 784153
+    },
+    {
+        "Portuguese": "minha",
+        "English": "my",
+        "Frequency": 759674
+    },
+    {
+        "Portuguese": "agora",
+        "English": "now",
+        "Frequency": 739062
+    },
+    {
+        "Portuguese": "pode",
+        "English": "he can",
+        "Frequency": 729911
+    },
+    {
+        "Portuguese": "te",
+        "English": "you",
+        "Frequency": 708064
+    },
+    {
+        "Portuguese": "ent\u00e3o",
+        "English": "then",
+        "Frequency": 697183
+    },
+    {
+        "Portuguese": "vou",
+        "English": "I go",
+        "Frequency": 692522
+    },
+    {
+        "Portuguese": "sei",
+        "English": "I know",
+        "Frequency": 683294
+    },
+    {
+        "Portuguese": "fazer",
+        "English": "to do",
+        "Frequency": 663506
+    },
+    {
+        "Portuguese": "quando",
+        "English": "when",
+        "Frequency": 645242
+    },
+    {
+        "Portuguese": "ser",
+        "English": "to be",
+        "Frequency": 644548
+    },
+    {
+        "Portuguese": "n\u00f3s",
+        "English": "us",
+        "Frequency": 602847
+    },
+    {
+        "Portuguese": "tenho",
+        "English": "I have",
+        "Frequency": 602162
+    },
+    {
+        "Portuguese": "quer",
+        "English": "he wants",
+        "Frequency": 595702
+    },
+    {
+        "Portuguese": "nos",
+        "English": "us",
+        "Frequency": 592787
+    },
+    {
+        "Portuguese": "certo",
+        "English": "right",
+        "Frequency": 586632
+    },
+    {
+        "Portuguese": "eles",
+        "English": "they",
+        "Frequency": 577218
+    },
+    {
+        "Portuguese": "j\u00e1",
+        "English": "already",
+        "Frequency": 574708
+    },
+    {
+        "Portuguese": "sabe",
+        "English": "he knows",
+        "Frequency": 568141
+    },
+    {
+        "Portuguese": "quem",
+        "English": "who",
+        "Frequency": 544196
+    },
+    {
+        "Portuguese": "estava",
+        "English": "he was",
+        "Frequency": 540328
+    },
+    {
+        "Portuguese": "nada",
+        "English": "nothing",
+        "Frequency": 530975
+    },
+    {
+        "Portuguese": "era",
+        "English": "it was",
+        "Frequency": 518910
+    },
+    {
+        "Portuguese": "onde",
+        "English": "where",
+        "Frequency": 518531
+    },
+    {
+        "Portuguese": "l\u00e1",
+        "English": "there",
+        "Frequency": 517914
+    },
+    {
+        "Portuguese": "quero",
+        "English": "I want",
+        "Frequency": 514976
+    },
+    {
+        "Portuguese": "ao",
+        "English": "to the",
+        "Frequency": 513460
+    },
+    {
+        "Portuguese": "ou",
+        "English": "or",
+        "Frequency": 510675
+    },
+    {
+        "Portuguese": "sou",
+        "English": "I am",
+        "Frequency": 507242
+    },
+    {
+        "Portuguese": "disse",
+        "English": "he said",
+        "Frequency": 506215
+    },
+    {
+        "Portuguese": "bom",
+        "English": "good",
+        "Frequency": 494666
+    },
+    {
+        "Portuguese": "h\u00e1",
+        "English": "there is",
+        "Frequency": 490737
+    },
+    {
+        "Portuguese": "posso",
+        "English": "can",
+        "Frequency": 470952
+    },
+    {
+        "Portuguese": "s\u00e3o",
+        "English": "they are",
+        "Frequency": 468376
+    },
+    {
+        "Portuguese": "ter",
+        "English": "to have",
+        "Frequency": 461690
+    },
+    {
+        "Portuguese": "dizer",
+        "English": "to say",
+        "Frequency": 461230
+    },
+    {
+        "Portuguese": "mim",
+        "English": "me",
+        "Frequency": 460289
+    },
+    {
+        "Portuguese": "porque",
+        "English": "why",
+        "Frequency": 454501
+    },
+    {
+        "Portuguese": "pra",
+        "English": "for",
+        "Frequency": 454184
+    },
+    {
+        "Portuguese": "acho",
+        "English": "I think",
+        "Frequency": 444495
+    },
+    {
+        "Portuguese": "coisa",
+        "English": "thing",
+        "Frequency": 441269
+    },
+    {
+        "Portuguese": "mesmo",
+        "English": "same",
+        "Frequency": 439234
+    },
+    {
+        "Portuguese": "est\u00e3o",
+        "English": "they are",
+        "Frequency": 420627
+    },
+    {
+        "Portuguese": "sobre",
+        "English": "on",
+        "Frequency": 420047
+    },
+    {
+        "Portuguese": "todos",
+        "English": "all",
+        "Frequency": 417070
+    },
+    {
+        "Portuguese": "at\u00e9",
+        "English": "until",
+        "Frequency": 394046
+    },
+    {
+        "Portuguese": "lo",
+        "English": "lo",
+        "Frequency": 392853
+    },
+    {
+        "Portuguese": "cara",
+        "English": "face",
+        "Frequency": 391314
+    },
+    {
+        "Portuguese": "nunca",
+        "English": "never",
+        "Frequency": 390093
+    },
+    {
+        "Portuguese": "qu\u00ea",
+        "English": "what",
+        "Frequency": 389519
+    },
+    {
+        "Portuguese": "assim",
+        "English": "like this",
+        "Frequency": 388507
+    },
+    {
+        "Portuguese": "tempo",
+        "English": "time",
+        "Frequency": 386946
+    },
+    {
+        "Portuguese": "algo",
+        "English": "something",
+        "Frequency": 384293
+    },
+    {
+        "Portuguese": "esse",
+        "English": "that",
+        "Frequency": 381372
+    },
+    {
+        "Portuguese": "isto",
+        "English": "this",
+        "Frequency": 369954
+    },
+    {
+        "Portuguese": "essa",
+        "English": "that",
+        "Frequency": 368406
+    },
+    {
+        "Portuguese": "casa",
+        "English": "home",
+        "Frequency": 368000
+    },
+    {
+        "Portuguese": "ver",
+        "English": "see",
+        "Frequency": 365892
+    },
+    {
+        "Portuguese": "voc\u00eas",
+        "English": "you",
+        "Frequency": 364421
+    },
+    {
+        "Portuguese": "favor",
+        "English": "please",
+        "Frequency": 352113
+    },
+    {
+        "Portuguese": "temos",
+        "English": "we have",
+        "Frequency": 342901
+    },
+    {
+        "Portuguese": "dos",
+        "English": "of the",
+        "Frequency": 339419
+    },
+    {
+        "Portuguese": "tamb\u00e9m",
+        "English": "also",
+        "Frequency": 336260
+    },
+    {
+        "Portuguese": "ainda",
+        "English": "yet",
+        "Frequency": 334585
+    },
+    {
+        "Portuguese": "deus",
+        "English": "God",
+        "Frequency": 330308
+    },
+    {
+        "Portuguese": "ir",
+        "English": "go",
+        "Frequency": 329324
+    },
+    {
+        "Portuguese": "noite",
+        "English": "night",
+        "Frequency": 326939
+    },
+    {
+        "Portuguese": "t\u00e3o",
+        "English": "so",
+        "Frequency": 325258
+    },
+    {
+        "Portuguese": "obrigado",
+        "English": "thanks",
+        "Frequency": 324702
+    },
+    {
+        "Portuguese": "sem",
+        "English": "without",
+        "Frequency": 318726
+    },
+    {
+        "Portuguese": "melhor",
+        "English": "better",
+        "Frequency": 318347
+    },
+    {
+        "Portuguese": "dia",
+        "English": "day",
+        "Frequency": 317525
+    },
+    {
+        "Portuguese": "esta",
+        "English": "this",
+        "Frequency": 314541
+    },
+    {
+        "Portuguese": "estamos",
+        "English": "we are",
+        "Frequency": 313367
+    },
+    {
+        "Portuguese": "talvez",
+        "English": "perhaps",
+        "Frequency": 307130
+    },
+    {
+        "Portuguese": "pai",
+        "English": "father",
+        "Frequency": 306743
+    },
+    {
+        "Portuguese": "algu\u00e9m",
+        "English": "somebody",
+        "Frequency": 297918
+    },
+    {
+        "Portuguese": "senhor",
+        "English": "sir",
+        "Frequency": 297130
+    },
+    {
+        "Portuguese": "vida",
+        "English": "life",
+        "Frequency": 287034
+    },
+    {
+        "Portuguese": "anos",
+        "English": "years",
+        "Frequency": 283172
+    },
+    {
+        "Portuguese": "m\u00e3e",
+        "English": "mother",
+        "Frequency": 281839
+    },
+    {
+        "Portuguese": "este",
+        "English": "this",
+        "Frequency": 281041
+    },
+    {
+        "Portuguese": "sr",
+        "English": "sir",
+        "Frequency": 279597
+    },
+    {
+        "Portuguese": "sempre",
+        "English": "always",
+        "Frequency": 277019
+    },
+    {
+        "Portuguese": "vez",
+        "English": "time",
+        "Frequency": 272322
+    },
+    {
+        "Portuguese": "verdade",
+        "English": "TRUE",
+        "Frequency": 272060
+    },
+    {
+        "Portuguese": "dele",
+        "English": "from him",
+        "Frequency": 269901
+    },
+    {
+        "Portuguese": "seus",
+        "English": "your",
+        "Frequency": 269283
+    },
+    {
+        "Portuguese": "ficar",
+        "English": "to stay",
+        "Frequency": 264790
+    },
+    {
+        "Portuguese": "parece",
+        "English": "it seems",
+        "Frequency": 261661
+    },
+    {
+        "Portuguese": "a\u00ed",
+        "English": "there",
+        "Frequency": 261305
+    },
+    {
+        "Portuguese": "preciso",
+        "English": "necessary",
+        "Frequency": 260189
+    },
+    {
+        "Portuguese": "falar",
+        "English": "to speak",
+        "Frequency": 258083
+    },
+    {
+        "Portuguese": "coisas",
+        "English": "things",
+        "Frequency": 255083
+    },
+    {
+        "Portuguese": "nem",
+        "English": "neither",
+        "Frequency": 252507
+    },
+    {
+        "Portuguese": "homem",
+        "English": "man",
+        "Frequency": 252387
+    },
+    {
+        "Portuguese": "depois",
+        "English": "after",
+        "Frequency": 252327
+    },
+    {
+        "Portuguese": "claro",
+        "English": "Of course",
+        "Frequency": 248751
+    },
+    {
+        "Portuguese": "pelo",
+        "English": "for the",
+        "Frequency": 246941
+    },
+    {
+        "Portuguese": "antes",
+        "English": "before",
+        "Frequency": 246629
+    },
+    {
+        "Portuguese": "fazendo",
+        "English": "doing",
+        "Frequency": 246513
+    },
+    {
+        "Portuguese": "tinha",
+        "English": "he had",
+        "Frequency": 245775
+    },
+    {
+        "Portuguese": "lhe",
+        "English": "him",
+        "Frequency": 243110
+    },
+    {
+        "Portuguese": "boa",
+        "English": "good",
+        "Frequency": 238975
+    },
+    {
+        "Portuguese": "faz",
+        "English": "he does",
+        "Frequency": 238635
+    },
+    {
+        "Portuguese": "dois",
+        "English": "two",
+        "Frequency": 238629
+    },
+    {
+        "Portuguese": "pessoas",
+        "English": "people",
+        "Frequency": 237578
+    },
+    {
+        "Portuguese": "pouco",
+        "English": "little",
+        "Frequency": 237499
+    },
+    {
+        "Portuguese": "ei",
+        "English": "Hey",
+        "Frequency": 233582
+    },
+    {
+        "Portuguese": "deve",
+        "English": "he must",
+        "Frequency": 232419
+    },
+    {
+        "Portuguese": "acha",
+        "English": "he thinks",
+        "Frequency": 230660
+    },
+    {
+        "Portuguese": "qual",
+        "English": "which",
+        "Frequency": 228193
+    },
+    {
+        "Portuguese": "todo",
+        "English": "all",
+        "Frequency": 227640
+    },
+    {
+        "Portuguese": "la",
+        "English": "there",
+        "Frequency": 226343
+    },
+    {
+        "Portuguese": "lugar",
+        "English": "place",
+        "Frequency": 224275
+    },
+    {
+        "Portuguese": "fora",
+        "English": "outside",
+        "Frequency": 223970
+    },
+    {
+        "Portuguese": "apenas",
+        "English": "just",
+        "Frequency": 222394
+    },
+    {
+        "Portuguese": "estar",
+        "English": "be",
+        "Frequency": 219530
+    },
+    {
+        "Portuguese": "ningu\u00e9m",
+        "English": "nobody",
+        "Frequency": 215599
+    },
+    {
+        "Portuguese": "fez",
+        "English": "he did",
+        "Frequency": 215470
+    },
+    {
+        "Portuguese": "disso",
+        "English": "from that",
+        "Frequency": 214776
+    },
+    {
+        "Portuguese": "trabalho",
+        "English": "work",
+        "Frequency": 211523
+    },
+    {
+        "Portuguese": "precisa",
+        "English": "it needs",
+        "Frequency": 208894
+    },
+    {
+        "Portuguese": "comigo",
+        "English": "with me",
+        "Frequency": 208772
+    },
+    {
+        "Portuguese": "das",
+        "English": "of",
+        "Frequency": 208183
+    },
+    {
+        "Portuguese": "dar",
+        "English": "give",
+        "Frequency": 207942
+    },
+    {
+        "Portuguese": "alguma",
+        "English": "some",
+        "Frequency": 207454
+    },
+    {
+        "Portuguese": "saber",
+        "English": "to know",
+        "Frequency": 202187
+    },
+    {
+        "Portuguese": "novo",
+        "English": "new",
+        "Frequency": 201112
+    },
+    {
+        "Portuguese": "mundo",
+        "English": "world",
+        "Frequency": 198928
+    },
+    {
+        "Portuguese": "desculpe",
+        "English": "sorry",
+        "Frequency": 196309
+    },
+    {
+        "Portuguese": "hoje",
+        "English": "today",
+        "Frequency": 195659
+    },
+    {
+        "Portuguese": "nome",
+        "English": "name",
+        "Frequency": 193871
+    },
+    {
+        "Portuguese": "seja",
+        "English": "it is",
+        "Frequency": 191860
+    },
+    {
+        "Portuguese": "queria",
+        "English": "I wanted",
+        "Frequency": 190013
+    },
+    {
+        "Portuguese": "v\u00e1",
+        "English": "go",
+        "Frequency": 189350
+    },
+    {
+        "Portuguese": "sinto",
+        "English": "I feel",
+        "Frequency": 189153
+    },
+    {
+        "Portuguese": "dinheiro",
+        "English": "money",
+        "Frequency": 188565
+    },
+    {
+        "Portuguese": "podemos",
+        "English": "we can",
+        "Frequency": 186045
+    },
+    {
+        "Portuguese": "diga",
+        "English": "say",
+        "Frequency": 185952
+    },
+    {
+        "Portuguese": "grande",
+        "English": "big",
+        "Frequency": 185854
+    },
+    {
+        "Portuguese": "filho",
+        "English": "son",
+        "Frequency": 185232
+    },
+    {
+        "Portuguese": "suas",
+        "English": "your",
+        "Frequency": 184524
+    },
+    {
+        "Portuguese": "quanto",
+        "English": "as",
+        "Frequency": 181777
+    },
+    {
+        "Portuguese": "nossa",
+        "English": "our",
+        "Frequency": 179983
+    },
+    {
+        "Portuguese": "deixe",
+        "English": "leave",
+        "Frequency": 178228
+    },
+    {
+        "Portuguese": "v\u00e3o",
+        "English": "they go",
+        "Frequency": 177062
+    },
+    {
+        "Portuguese": "pela",
+        "English": "for the",
+        "Frequency": 176923
+    },
+    {
+        "Portuguese": "outro",
+        "English": "other",
+        "Frequency": 174160
+    },
+    {
+        "Portuguese": "qualquer",
+        "English": "any",
+        "Frequency": 173485
+    },
+    {
+        "Portuguese": "ser\u00e1",
+        "English": "it will be",
+        "Frequency": 173303
+    },
+    {
+        "Portuguese": "meus",
+        "English": "my",
+        "Frequency": 169750
+    },
+    {
+        "Portuguese": "poderia",
+        "English": "it could",
+        "Frequency": 166207
+    },
+    {
+        "Portuguese": "ok",
+        "English": "OK",
+        "Frequency": 166182
+    },
+    {
+        "Portuguese": "nosso",
+        "English": "our",
+        "Frequency": 165340
+    },
+    {
+        "Portuguese": "oi",
+        "English": "hey",
+        "Frequency": 164212
+    },
+    {
+        "Portuguese": "hora",
+        "English": "time",
+        "Frequency": 163576
+    },
+    {
+        "Portuguese": "outra",
+        "English": "other",
+        "Frequency": 163329
+    },
+    {
+        "Portuguese": "dela",
+        "English": "her",
+        "Frequency": 162206
+    },
+    {
+        "Portuguese": "certeza",
+        "English": "certainty",
+        "Frequency": 158961
+    },
+    {
+        "Portuguese": "sair",
+        "English": "to go out",
+        "Frequency": 155946
+    },
+    {
+        "Portuguese": "ol\u00e1",
+        "English": "hello",
+        "Frequency": 154329
+    },
+    {
+        "Portuguese": "problema",
+        "English": "problem",
+        "Frequency": 152382
+    },
+    {
+        "Portuguese": "carro",
+        "English": "car",
+        "Frequency": 152023
+    },
+    {
+        "Portuguese": "daqui",
+        "English": "from here",
+        "Frequency": 151452
+    },
+    {
+        "Portuguese": "mulher",
+        "English": "woman",
+        "Frequency": 151181
+    },
+    {
+        "Portuguese": "toda",
+        "English": "all",
+        "Frequency": 151021
+    },
+    {
+        "Portuguese": "merda",
+        "English": "Shit",
+        "Frequency": 149802
+    },
+    {
+        "Portuguese": "algum",
+        "English": "some",
+        "Frequency": 147438
+    },
+    {
+        "Portuguese": "volta",
+        "English": "return",
+        "Frequency": 147301
+    },
+    {
+        "Portuguese": "espere",
+        "English": "Wait",
+        "Frequency": 147222
+    },
+    {
+        "Portuguese": "falando",
+        "English": "talking",
+        "Frequency": 146669
+    },
+    {
+        "Portuguese": "sabia",
+        "English": "you knew",
+        "Frequency": 145336
+    },
+    {
+        "Portuguese": "amigo",
+        "English": "friend",
+        "Frequency": 145335
+    },
+    {
+        "Portuguese": "aconteceu",
+        "English": "it happened",
+        "Frequency": 144522
+    },
+    {
+        "Portuguese": "menos",
+        "English": "less",
+        "Frequency": 142316
+    },
+    {
+        "Portuguese": "olhe",
+        "English": "look",
+        "Frequency": 140274
+    },
+    {
+        "Portuguese": "tipo",
+        "English": "type",
+        "Frequency": 140258
+    },
+    {
+        "Portuguese": "fa\u00e7a",
+        "English": "do",
+        "Frequency": 139089
+    },
+    {
+        "Portuguese": "venha",
+        "English": "come",
+        "Frequency": 137603
+    },
+    {
+        "Portuguese": "diz",
+        "English": "it says",
+        "Frequency": 135683
+    },
+    {
+        "Portuguese": "tr\u00eas",
+        "English": "three",
+        "Frequency": 134792
+    },
+    {
+        "Portuguese": "\u00f3timo",
+        "English": "excellent",
+        "Frequency": 132867
+    },
+    {
+        "Portuguese": "obrigada",
+        "English": "thanks",
+        "Frequency": 132720
+    },
+    {
+        "Portuguese": "vezes",
+        "English": "times",
+        "Frequency": 132447
+    },
+    {
+        "Portuguese": "vi",
+        "English": "vi",
+        "Frequency": 131918
+    },
+    {
+        "Portuguese": "primeiro",
+        "English": "first",
+        "Frequency": 128887
+    },
+    {
+        "Portuguese": "atr\u00e1s",
+        "English": "back",
+        "Frequency": 128528
+    },
+    {
+        "Portuguese": "voltar",
+        "English": "to go back",
+        "Frequency": 125871
+    },
+    {
+        "Portuguese": "s\u00e9rio",
+        "English": "serious",
+        "Frequency": 125791
+    },
+    {
+        "Portuguese": "entre",
+        "English": "between",
+        "Frequency": 124995
+    },
+    {
+        "Portuguese": "tenha",
+        "English": "you have",
+        "Frequency": 124955
+    },
+    {
+        "Portuguese": "deveria",
+        "English": "it should",
+        "Frequency": 124655
+    },
+    {
+        "Portuguese": "realmente",
+        "English": "really",
+        "Frequency": 124323
+    },
+    {
+        "Portuguese": "ah",
+        "English": "ah",
+        "Frequency": 124261
+    },
+    {
+        "Portuguese": "seria",
+        "English": "he would be",
+        "Frequency": 123698
+    },
+    {
+        "Portuguese": "\u00e0s",
+        "English": "to the",
+        "Frequency": 122890
+    },
+    {
+        "Portuguese": "embora",
+        "English": "although",
+        "Frequency": 122817
+    },
+    {
+        "Portuguese": "olha",
+        "English": "look",
+        "Frequency": 121414
+    },
+    {
+        "Portuguese": "v\u00ea",
+        "English": "see",
+        "Frequency": 121302
+    },
+    {
+        "Portuguese": "parte",
+        "English": "part",
+        "Frequency": 121012
+    },
+    {
+        "Portuguese": "viu",
+        "English": "it saw",
+        "Frequency": 120591
+    },
+    {
+        "Portuguese": "vem",
+        "English": "he comes",
+        "Frequency": 120065
+    },
+    {
+        "Portuguese": "todas",
+        "English": "all",
+        "Frequency": 119637
+    },
+    {
+        "Portuguese": "aquele",
+        "English": "that one",
+        "Frequency": 119193
+    },
+    {
+        "Portuguese": "fique",
+        "English": "stay",
+        "Frequency": 117157
+    },
+    {
+        "Portuguese": "los",
+        "English": "los",
+        "Frequency": 116932
+    },
+    {
+        "Portuguese": "deixar",
+        "English": "to leave",
+        "Frequency": 116577
+    },
+    {
+        "Portuguese": "ajudar",
+        "English": "to help",
+        "Frequency": 116349
+    },
+    {
+        "Portuguese": "amor",
+        "English": "love",
+        "Frequency": 116327
+    },
+    {
+        "Portuguese": "dentro",
+        "English": "within",
+        "Frequency": 114943
+    },
+    {
+        "Portuguese": "d\u00ea",
+        "English": "of",
+        "Frequency": 114601
+    },
+    {
+        "Portuguese": "pensei",
+        "English": "I thought",
+        "Frequency": 112909
+    },
+    {
+        "Portuguese": "cabe\u00e7a",
+        "English": "head",
+        "Frequency": 112791
+    },
+    {
+        "Portuguese": "fam\u00edlia",
+        "English": "family",
+        "Frequency": 112465
+    },
+    {
+        "Portuguese": "duas",
+        "English": "two",
+        "Frequency": 112430
+    },
+    {
+        "Portuguese": "gente",
+        "English": "people",
+        "Frequency": 112153
+    },
+    {
+        "Portuguese": "frente",
+        "English": "front",
+        "Frequency": 111983
+    },
+    {
+        "Portuguese": "pare",
+        "English": "Stop",
+        "Frequency": 111753
+    },
+    {
+        "Portuguese": "querida",
+        "English": "dear",
+        "Frequency": 111636
+    },
+    {
+        "Portuguese": "feliz",
+        "English": "happy",
+        "Frequency": 110438
+    },
+    {
+        "Portuguese": "dias",
+        "English": "days",
+        "Frequency": 110391
+    },
+    {
+        "Portuguese": "nas",
+        "English": "in the",
+        "Frequency": 110169
+    },
+    {
+        "Portuguese": "indo",
+        "English": "going",
+        "Frequency": 110064
+    },
+    {
+        "Portuguese": "lado",
+        "English": "side",
+        "Frequency": 109978
+    },
+    {
+        "Portuguese": "fui",
+        "English": "I went",
+        "Frequency": 109338
+    },
+    {
+        "Portuguese": "podem",
+        "English": "they can",
+        "Frequency": 108381
+    },
+    {
+        "Portuguese": "gosto",
+        "English": "I like",
+        "Frequency": 108369
+    },
+    {
+        "Portuguese": "homens",
+        "English": "men",
+        "Frequency": 107943
+    },
+    {
+        "Portuguese": "mal",
+        "English": "bad",
+        "Frequency": 107485
+    },
+    {
+        "Portuguese": "matar",
+        "English": "to kill",
+        "Frequency": 106516
+    },
+    {
+        "Portuguese": "nenhum",
+        "English": "none",
+        "Frequency": 106325
+    },
+    {
+        "Portuguese": "d\u00e1",
+        "English": "from the",
+        "Frequency": 105568
+    },
+    {
+        "Portuguese": "fiz",
+        "English": "I did",
+        "Frequency": 105413
+    },
+    {
+        "Portuguese": "precisamos",
+        "English": "we need",
+        "Frequency": 104903
+    },
+    {
+        "Portuguese": "pegar",
+        "English": "to take",
+        "Frequency": 104439
+    },
+    {
+        "Portuguese": "somos",
+        "English": "we are",
+        "Frequency": 104094
+    },
+    {
+        "Portuguese": "cidade",
+        "English": "city",
+        "Frequency": 103832
+    },
+    {
+        "Portuguese": "tarde",
+        "English": "late",
+        "Frequency": 103658
+    },
+    {
+        "Portuguese": "fosse",
+        "English": "were",
+        "Frequency": 102448
+    },
+    {
+        "Portuguese": "alguns",
+        "English": "some",
+        "Frequency": 102131
+    },
+    {
+        "Portuguese": "legal",
+        "English": "legal",
+        "Frequency": 101081
+    },
+    {
+        "Portuguese": "amigos",
+        "English": "friends",
+        "Frequency": 100766
+    },
+    {
+        "Portuguese": "t\u00eam",
+        "English": "he has",
+        "Frequency": 100448
+    },
+    {
+        "Portuguese": "garota",
+        "English": "girl",
+        "Frequency": 100098
+    },
+    {
+        "Portuguese": "meio",
+        "English": "quite",
+        "Frequency": 99998
+    },
+    {
+        "Portuguese": "deles",
+        "English": "from them",
+        "Frequency": 99802
+    },
+    {
+        "Portuguese": "logo",
+        "English": "logo",
+        "Frequency": 99776
+    },
+    {
+        "Portuguese": "r\u00e1pido",
+        "English": "fast",
+        "Frequency": 99162
+    },
+    {
+        "Portuguese": "amanh\u00e3",
+        "English": "tomorrow",
+        "Frequency": 97874
+    },
+    {
+        "Portuguese": "momento",
+        "English": "moment",
+        "Frequency": 97512
+    },
+    {
+        "Portuguese": "gostaria",
+        "English": "I would like",
+        "Frequency": 97048
+    },
+    {
+        "Portuguese": "medo",
+        "English": "fear",
+        "Frequency": 96935
+    },
+    {
+        "Portuguese": "caso",
+        "English": "case",
+        "Frequency": 96883
+    },
+    {
+        "Portuguese": "num",
+        "English": "in",
+        "Frequency": 96603
+    },
+    {
+        "Portuguese": "foram",
+        "English": "they were",
+        "Frequency": 96410
+    },
+    {
+        "Portuguese": "importa",
+        "English": "matters",
+        "Frequency": 95198
+    },
+    {
+        "Portuguese": "tanto",
+        "English": "both",
+        "Frequency": 95111
+    },
+    {
+        "Portuguese": "horas",
+        "English": "hours",
+        "Frequency": 94990
+    },
+    {
+        "Portuguese": "porta",
+        "English": "door",
+        "Frequency": 94116
+    },
+    {
+        "Portuguese": "tentando",
+        "English": "trying",
+        "Frequency": 93864
+    },
+    {
+        "Portuguese": "irm\u00e3o",
+        "English": "brother",
+        "Frequency": 93187
+    },
+    {
+        "Portuguese": "outros",
+        "English": "others",
+        "Frequency": 92884
+    },
+    {
+        "Portuguese": "entrar",
+        "English": "to enter",
+        "Frequency": 92744
+    },
+    {
+        "Portuguese": "desde",
+        "English": "since",
+        "Frequency": 92715
+    },
+    {
+        "Portuguese": "ali",
+        "English": "there",
+        "Frequency": 92266
+    },
+    {
+        "Portuguese": "minhas",
+        "English": "my",
+        "Frequency": 92216
+    },
+    {
+        "Portuguese": "amo",
+        "English": "I love",
+        "Frequency": 92205
+    },
+    {
+        "Portuguese": "jeito",
+        "English": "way",
+        "Frequency": 91461
+    },
+    {
+        "Portuguese": "minutos",
+        "English": "minutes",
+        "Frequency": 91337
+    },
+    {
+        "Portuguese": "cada",
+        "English": "each",
+        "Frequency": 91256
+    },
+    {
+        "Portuguese": "morto",
+        "English": "dead",
+        "Frequency": 91067
+    },
+    {
+        "Portuguese": "vejo",
+        "English": "I see",
+        "Frequency": 90408
+    },
+    {
+        "Portuguese": "enquanto",
+        "English": "while",
+        "Frequency": 90001
+    },
+    {
+        "Portuguese": "quase",
+        "English": "almost",
+        "Frequency": 89854
+    },
+    {
+        "Portuguese": "errado",
+        "English": "wrong",
+        "Frequency": 89386
+    },
+    {
+        "Portuguese": "pessoa",
+        "English": "person",
+        "Frequency": 89361
+    },
+    {
+        "Portuguese": "algumas",
+        "English": "some",
+        "Frequency": 89178
+    },
+    {
+        "Portuguese": "ajuda",
+        "English": "help",
+        "Frequency": 89009
+    },
+    {
+        "Portuguese": "demais",
+        "English": "too much",
+        "Frequency": 88956
+    },
+    {
+        "Portuguese": "nova",
+        "English": "new",
+        "Frequency": 88181
+    },
+    {
+        "Portuguese": "hist\u00f3ria",
+        "English": "history",
+        "Frequency": 87952
+    },
+    {
+        "Portuguese": "perto",
+        "English": "close",
+        "Frequency": 87812
+    },
+    {
+        "Portuguese": "fica",
+        "English": "he is",
+        "Frequency": 86991
+    },
+    {
+        "Portuguese": "aquela",
+        "English": "that one",
+        "Frequency": 86700
+    },
+    {
+        "Portuguese": "t\u00e1",
+        "English": "okay",
+        "Frequency": 86550
+    },
+    {
+        "Portuguese": "dizendo",
+        "English": "saying",
+        "Frequency": 86213
+    },
+    {
+        "Portuguese": "semana",
+        "English": "week",
+        "Frequency": 86001
+    },
+    {
+        "Portuguese": "garoto",
+        "English": "boy",
+        "Frequency": 85808
+    },
+    {
+        "Portuguese": "deu",
+        "English": "it gave",
+        "Frequency": 85741
+    },
+    {
+        "Portuguese": "encontrar",
+        "English": "find",
+        "Frequency": 85380
+    },
+    {
+        "Portuguese": "papai",
+        "English": "daddy",
+        "Frequency": 85111
+    },
+    {
+        "Portuguese": "pessoal",
+        "English": "guys",
+        "Frequency": 85053
+    },
+    {
+        "Portuguese": "contra",
+        "English": "against",
+        "Frequency": 84716
+    },
+    {
+        "Portuguese": "sorte",
+        "English": "luck",
+        "Frequency": 84656
+    },
+    {
+        "Portuguese": "cima",
+        "English": "top",
+        "Frequency": 84542
+    },
+    {
+        "Portuguese": "droga",
+        "English": "drug",
+        "Frequency": 84354
+    },
+    {
+        "Portuguese": "primeira",
+        "English": "first",
+        "Frequency": 84213
+    },
+    {
+        "Portuguese": "nisso",
+        "English": "in that",
+        "Frequency": 84202
+    },
+    {
+        "Portuguese": "esses",
+        "English": "those",
+        "Frequency": 84177
+    },
+    {
+        "Portuguese": "quiser",
+        "English": "he wants",
+        "Frequency": 84099
+    },
+    {
+        "Portuguese": "morte",
+        "English": "death",
+        "Frequency": 84050
+    },
+    {
+        "Portuguese": "essas",
+        "English": "these",
+        "Frequency": 84023
+    },
+    {
+        "Portuguese": "id\u00e9ia",
+        "English": "idea",
+        "Frequency": 84013
+    },
+    {
+        "Portuguese": "achei",
+        "English": "I thought",
+        "Frequency": 83662
+    },
+    {
+        "Portuguese": "morrer",
+        "English": "to die",
+        "Frequency": 83224
+    },
+    {
+        "Portuguese": "espero",
+        "English": "I hope",
+        "Frequency": 82993
+    },
+    {
+        "Portuguese": "caminho",
+        "English": "path",
+        "Frequency": 82963
+    },
+    {
+        "Portuguese": "pol\u00edcia",
+        "English": "police",
+        "Frequency": 82877
+    },
+    {
+        "Portuguese": "sente",
+        "English": "feels",
+        "Frequency": 82799
+    },
+    {
+        "Portuguese": "arma",
+        "English": "arm",
+        "Frequency": 82727
+    },
+    {
+        "Portuguese": "manh\u00e3",
+        "English": "morning",
+        "Frequency": 82527
+    },
+    {
+        "Portuguese": "aos",
+        "English": "to the",
+        "Frequency": 82337
+    },
+    {
+        "Portuguese": "acabou",
+        "English": "he finished",
+        "Frequency": 81981
+    },
+    {
+        "Portuguese": "quarto",
+        "English": "room",
+        "Frequency": 81661
+    },
+    {
+        "Portuguese": "crian\u00e7as",
+        "English": "children",
+        "Frequency": 81419
+    },
+    {
+        "Portuguese": "ano",
+        "English": "year",
+        "Frequency": 81261
+    },
+    {
+        "Portuguese": "levar",
+        "English": "to take",
+        "Frequency": 81241
+    },
+    {
+        "Portuguese": "pronto",
+        "English": "ready",
+        "Frequency": 80823
+    },
+    {
+        "Portuguese": "forma",
+        "English": "form",
+        "Frequency": 80638
+    },
+    {
+        "Portuguese": "acredito",
+        "English": "I believe",
+        "Frequency": 80566
+    },
+    {
+        "Portuguese": "espera",
+        "English": "wait",
+        "Frequency": 80456
+    },
+    {
+        "Portuguese": "for",
+        "English": "for",
+        "Frequency": 80280
+    },
+    {
+        "Portuguese": "chegar",
+        "English": "to arrive",
+        "Frequency": 79865
+    },
+    {
+        "Portuguese": "juntos",
+        "English": "together",
+        "Frequency": 79755
+    },
+    {
+        "Portuguese": "gosta",
+        "English": "he likes",
+        "Frequency": 79296
+    },
+    {
+        "Portuguese": "cuidado",
+        "English": "Careful",
+        "Frequency": 79268
+    },
+    {
+        "Portuguese": "uns",
+        "English": "some",
+        "Frequency": 79228
+    },
+    {
+        "Portuguese": "tive",
+        "English": "I had",
+        "Frequency": 79124
+    },
+    {
+        "Portuguese": "pensar",
+        "English": "think",
+        "Frequency": 79102
+    },
+    {
+        "Portuguese": "numa",
+        "English": "in a",
+        "Frequency": 79093
+    },
+    {
+        "Portuguese": "raz\u00e3o",
+        "English": "reason",
+        "Frequency": 78335
+    },
+    {
+        "Portuguese": "veja",
+        "English": "look",
+        "Frequency": 78038
+    },
+    {
+        "Portuguese": "feito",
+        "English": "done",
+        "Frequency": 78029
+    },
+    {
+        "Portuguese": "devia",
+        "English": "should",
+        "Frequency": 77969
+    },
+    {
+        "Portuguese": "m\u00e3os",
+        "English": "hands",
+        "Frequency": 77828
+    },
+    {
+        "Portuguese": "teve",
+        "English": "he had",
+        "Frequency": 77816
+    },
+    {
+        "Portuguese": "consigo",
+        "English": "with you",
+        "Frequency": 77229
+    },
+    {
+        "Portuguese": "elas",
+        "English": "they",
+        "Frequency": 76549
+    },
+    {
+        "Portuguese": "sido",
+        "English": "been",
+        "Frequency": 76175
+    },
+    {
+        "Portuguese": "conta",
+        "English": "account",
+        "Frequency": 76097
+    },
+    {
+        "Portuguese": "contar",
+        "English": "count",
+        "Frequency": 75824
+    },
+    {
+        "Portuguese": "chefe",
+        "English": "boss",
+        "Frequency": 75701
+    },
+    {
+        "Portuguese": "olhos",
+        "English": "eyes",
+        "Frequency": 75362
+    },
+    {
+        "Portuguese": "filha",
+        "English": "daughter",
+        "Frequency": 75218
+    },
+    {
+        "Portuguese": "ia",
+        "English": "ia",
+        "Frequency": 75151
+    },
+    {
+        "Portuguese": "dif\u00edcil",
+        "English": "difficult",
+        "Frequency": 75123
+    },
+    {
+        "Portuguese": "idiota",
+        "English": "idiot",
+        "Frequency": 75062
+    },
+    {
+        "Portuguese": "significa",
+        "English": "it means",
+        "Frequency": 74028
+    },
+    {
+        "Portuguese": "entendo",
+        "English": "I understand",
+        "Frequency": 73879
+    },
+    {
+        "Portuguese": "dr",
+        "English": "Dr.",
+        "Frequency": 73450
+    },
+    {
+        "Portuguese": "deixa",
+        "English": "he leaves",
+        "Frequency": 73346
+    },
+    {
+        "Portuguese": "vindo",
+        "English": "coming",
+        "Frequency": 73250
+    },
+    {
+        "Portuguese": "ouvir",
+        "English": "to hear",
+        "Frequency": 73207
+    },
+    {
+        "Portuguese": "passar",
+        "English": "to spend",
+        "Frequency": 72879
+    },
+    {
+        "Portuguese": "acontecendo",
+        "English": "happening",
+        "Frequency": 72741
+    },
+    {
+        "Portuguese": "sangue",
+        "English": "blood",
+        "Frequency": 72685
+    },
+    {
+        "Portuguese": "vir",
+        "English": "come",
+        "Frequency": 72636
+    },
+    {
+        "Portuguese": "fim",
+        "English": "end",
+        "Frequency": 72544
+    },
+    {
+        "Portuguese": "mam\u00e3e",
+        "English": "mommy",
+        "Frequency": 72013
+    },
+    {
+        "Portuguese": "devo",
+        "English": "I must",
+        "Frequency": 71998
+    },
+    {
+        "Portuguese": "esposa",
+        "English": "wife",
+        "Frequency": 71972
+    },
+    {
+        "Portuguese": "lembra",
+        "English": "remember",
+        "Frequency": 71767
+    },
+    {
+        "Portuguese": "mesma",
+        "English": "same",
+        "Frequency": 71664
+    },
+    {
+        "Portuguese": "veio",
+        "English": "he came",
+        "Frequency": 71316
+    },
+    {
+        "Portuguese": "\u00faltima",
+        "English": "last",
+        "Frequency": 70926
+    },
+    {
+        "Portuguese": "problemas",
+        "English": "problems",
+        "Frequency": 70913
+    },
+    {
+        "Portuguese": "jogo",
+        "English": "game",
+        "Frequency": 70491
+    },
+    {
+        "Portuguese": "guerra",
+        "English": "war",
+        "Frequency": 70464
+    },
+    {
+        "Portuguese": "\u00e1gua",
+        "English": "water",
+        "Frequency": 70287
+    },
+    {
+        "Portuguese": "parar",
+        "English": "to stop",
+        "Frequency": 70063
+    },
+    {
+        "Portuguese": "nossos",
+        "English": "ours",
+        "Frequency": 70016
+    },
+    {
+        "Portuguese": "teria",
+        "English": "would have",
+        "Frequency": 69917
+    },
+    {
+        "Portuguese": "importante",
+        "English": "important",
+        "Frequency": 69850
+    },
+    {
+        "Portuguese": "m\u00e3o",
+        "English": "hand",
+        "Frequency": 69791
+    },
+    {
+        "Portuguese": "querem",
+        "English": "they want",
+        "Frequency": 69291
+    },
+    {
+        "Portuguese": "sra",
+        "English": "Mrs.",
+        "Frequency": 68705
+    },
+    {
+        "Portuguese": "pensando",
+        "English": "thinking",
+        "Frequency": 68403
+    },
+    {
+        "Portuguese": "boca",
+        "English": "mouth",
+        "Frequency": 68101
+    },
+    {
+        "Portuguese": "cora\u00e7\u00e3o",
+        "English": "heart",
+        "Frequency": 67425
+    },
+    {
+        "Portuguese": "tal",
+        "English": "such",
+        "Frequency": 67170
+    },
+    {
+        "Portuguese": "\u00fanica",
+        "English": "unique",
+        "Frequency": 67066
+    },
+    {
+        "Portuguese": "escola",
+        "English": "school",
+        "Frequency": 66746
+    },
+    {
+        "Portuguese": "exatamente",
+        "English": "exactly",
+        "Frequency": 66512
+    },
+    {
+        "Portuguese": "corpo",
+        "English": "body",
+        "Frequency": 66338
+    },
+    {
+        "Portuguese": "conhece",
+        "English": "do you know",
+        "Frequency": 66315
+    },
+    {
+        "Portuguese": "podia",
+        "English": "could",
+        "Frequency": 66242
+    },
+    {
+        "Portuguese": "poder",
+        "English": "power",
+        "Frequency": 66130
+    },
+    {
+        "Portuguese": "tentar",
+        "English": "to try",
+        "Frequency": 65915
+    },
+    {
+        "Portuguese": "licen\u00e7a",
+        "English": "license",
+        "Frequency": 65839
+    },
+    {
+        "Portuguese": "nenhuma",
+        "English": "none",
+        "Frequency": 65822
+    },
+    {
+        "Portuguese": "causa",
+        "English": "cause",
+        "Frequency": 65763
+    },
+    {
+        "Portuguese": "havia",
+        "English": "there was",
+        "Frequency": 65713
+    },
+    {
+        "Portuguese": "fala",
+        "English": "he speaks",
+        "Frequency": 65461
+    },
+    {
+        "Portuguese": "ficou",
+        "English": "it was left",
+        "Frequency": 65402
+    },
+    {
+        "Portuguese": "ouvi",
+        "English": "I heard",
+        "Frequency": 65258
+    },
+    {
+        "Portuguese": "digo",
+        "English": "I mean",
+        "Frequency": 65124
+    },
+    {
+        "Portuguese": "fa\u00e7o",
+        "English": "I make",
+        "Frequency": 65041
+    },
+    {
+        "Portuguese": "longe",
+        "English": "far away",
+        "Frequency": 64860
+    },
+    {
+        "Portuguese": "terra",
+        "English": "Earth",
+        "Frequency": 64342
+    },
+    {
+        "Portuguese": "come\u00e7ar",
+        "English": "to start",
+        "Frequency": 63756
+    },
+    {
+        "Portuguese": "saia",
+        "English": "skirt",
+        "Frequency": 63736
+    },
+    {
+        "Portuguese": "jack",
+        "English": "jack",
+        "Frequency": 63557
+    },
+    {
+        "Portuguese": "ontem",
+        "English": "yesterday",
+        "Frequency": 63098
+    },
+    {
+        "Portuguese": "tivesse",
+        "English": "had",
+        "Frequency": 63011
+    },
+    {
+        "Portuguese": "porra",
+        "English": "damn",
+        "Frequency": 62961
+    },
+    {
+        "Portuguese": "segundo",
+        "English": "second",
+        "Frequency": 62257
+    },
+    {
+        "Portuguese": "pois",
+        "English": "then",
+        "Frequency": 62238
+    },
+    {
+        "Portuguese": "velho",
+        "English": "old",
+        "Frequency": 62114
+    },
+    {
+        "Portuguese": "maior",
+        "English": "bigger",
+        "Frequency": 61652
+    },
+    {
+        "Portuguese": "capit\u00e3o",
+        "English": "captain",
+        "Frequency": 61512
+    },
+    {
+        "Portuguese": "cinco",
+        "English": "five",
+        "Frequency": 61306
+    },
+    {
+        "Portuguese": "matou",
+        "English": "killed",
+        "Frequency": 61259
+    },
+    {
+        "Portuguese": "tirar",
+        "English": "to throw",
+        "Frequency": 61154
+    },
+    {
+        "Portuguese": "querido",
+        "English": "dear",
+        "Frequency": 61072
+    },
+    {
+        "Portuguese": "diabos",
+        "English": "devils",
+        "Frequency": 61041
+    },
+    {
+        "Portuguese": "senhora",
+        "English": "madam",
+        "Frequency": 61021
+    },
+    {
+        "Portuguese": "sendo",
+        "English": "being",
+        "Frequency": 61010
+    },
+    {
+        "Portuguese": "chance",
+        "English": "chance",
+        "Frequency": 60925
+    },
+    {
+        "Portuguese": "morreu",
+        "English": "he died",
+        "Frequency": 60499
+    },
+    {
+        "Portuguese": "marido",
+        "English": "husband",
+        "Frequency": 60495
+    },
+    {
+        "Portuguese": "usar",
+        "English": "to use",
+        "Frequency": 60401
+    },
+    {
+        "Portuguese": "n\u00famero",
+        "English": "number",
+        "Frequency": 60002
+    },
+    {
+        "Portuguese": "meses",
+        "English": "months",
+        "Frequency": 59978
+    },
+    {
+        "Portuguese": "pegue",
+        "English": "take",
+        "Frequency": 59927
+    },
+    {
+        "Portuguese": "esperar",
+        "English": "wait",
+        "Frequency": 59810
+    },
+    {
+        "Portuguese": "conhe\u00e7o",
+        "English": "I know",
+        "Frequency": 59407
+    },
+    {
+        "Portuguese": "preocupe",
+        "English": "worry",
+        "Frequency": 59347
+    },
+    {
+        "Portuguese": "comer",
+        "English": "eat",
+        "Frequency": 58472
+    },
+    {
+        "Portuguese": "esperando",
+        "English": "waiting",
+        "Frequency": 58366
+    },
+    {
+        "Portuguese": "c\u00e1",
+        "English": "here",
+        "Frequency": 58327
+    },
+    {
+        "Portuguese": "festa",
+        "English": "party",
+        "Frequency": 58273
+    },
+    {
+        "Portuguese": "estranho",
+        "English": "strange",
+        "Frequency": 58157
+    },
+    {
+        "Portuguese": "mulheres",
+        "English": "women",
+        "Frequency": 57928
+    },
+    {
+        "Portuguese": "trabalhar",
+        "English": "to work",
+        "Frequency": 57911
+    },
+    {
+        "Portuguese": "prazer",
+        "English": "pleasure",
+        "Frequency": 57795
+    },
+    {
+        "Portuguese": "houve",
+        "English": "there was",
+        "Frequency": 57695
+    },
+    {
+        "Portuguese": "aquilo",
+        "English": "that one",
+        "Frequency": 57596
+    },
+    {
+        "Portuguese": "telefone",
+        "English": "telephone",
+        "Frequency": 57330
+    },
+    {
+        "Portuguese": "sabemos",
+        "English": "we know",
+        "Frequency": 57199
+    },
+    {
+        "Portuguese": "consegue",
+        "English": "it achieves",
+        "Frequency": 57100
+    },
+    {
+        "Portuguese": "muita",
+        "English": "many",
+        "Frequency": 57072
+    },
+    {
+        "Portuguese": "deixou",
+        "English": "he left",
+        "Frequency": 56969
+    },
+    {
+        "Portuguese": "ir\u00e1",
+        "English": "Iran",
+        "Frequency": 56791
+    },
+    {
+        "Portuguese": "pergunta",
+        "English": "question",
+        "Frequency": 56745
+    },
+    {
+        "Portuguese": "filhos",
+        "English": "children",
+        "Frequency": 56698
+    },
+    {
+        "Portuguese": "john",
+        "English": "John",
+        "Frequency": 56669
+    },
+    {
+        "Portuguese": "seguran\u00e7a",
+        "English": "security",
+        "Frequency": 56522
+    },
+    {
+        "Portuguese": "tomar",
+        "English": "take",
+        "Frequency": 56458
+    },
+    {
+        "Portuguese": "f\u00e1cil",
+        "English": "easy",
+        "Frequency": 56445
+    },
+    {
+        "Portuguese": "conseguir",
+        "English": "achieve",
+        "Frequency": 56441
+    },
+    {
+        "Portuguese": "esteja",
+        "English": "be",
+        "Frequency": 56440
+    },
+    {
+        "Portuguese": "dormir",
+        "English": "sleep",
+        "Frequency": 56402
+    },
+    {
+        "Portuguese": "bastante",
+        "English": "quite",
+        "Frequency": 56279
+    },
+    {
+        "Portuguese": "desse",
+        "English": "of that",
+        "Frequency": 56192
+    },
+    {
+        "Portuguese": "quatro",
+        "English": "four",
+        "Frequency": 56161
+    },
+    {
+        "Portuguese": "dessa",
+        "English": "of this",
+        "Frequency": 55981
+    },
+    {
+        "Portuguese": "possa",
+        "English": "may",
+        "Frequency": 55954
+    },
+    {
+        "Portuguese": "mil",
+        "English": "thousand",
+        "Frequency": 55764
+    },
+    {
+        "Portuguese": "pais",
+        "English": "country",
+        "Frequency": 55671
+    },
+    {
+        "Portuguese": "calma",
+        "English": "calm",
+        "Frequency": 55324
+    },
+    {
+        "Portuguese": "muitos",
+        "English": "many",
+        "Frequency": 55136
+    },
+    {
+        "Portuguese": "caf\u00e9",
+        "English": "coffee",
+        "Frequency": 54860
+    },
+    {
+        "Portuguese": "sentir",
+        "English": "to feel",
+        "Frequency": 54857
+    },
+    {
+        "Portuguese": "irm\u00e3",
+        "English": "sister",
+        "Frequency": 54829
+    },
+    {
+        "Portuguese": "estavam",
+        "English": "they were",
+        "Frequency": 54734
+    },
+    {
+        "Portuguese": "beb\u00ea",
+        "English": "baby",
+        "Frequency": 54577
+    },
+    {
+        "Portuguese": "muitas",
+        "English": "lots of",
+        "Frequency": 54540
+    },
+    {
+        "Portuguese": "maneira",
+        "English": "manner",
+        "Frequency": 54435
+    },
+    {
+        "Portuguese": "eram",
+        "English": "they were",
+        "Frequency": 54384
+    },
+    {
+        "Portuguese": "acontecer",
+        "English": "to happen",
+        "Frequency": 54371
+    },
+    {
+        "Portuguese": "sozinho",
+        "English": "alone",
+        "Frequency": 54146
+    },
+    {
+        "Portuguese": "al\u00e9m",
+        "English": "in addition",
+        "Frequency": 54065
+    },
+    {
+        "Portuguese": "neste",
+        "English": "in this",
+        "Frequency": 53948
+    },
+    {
+        "Portuguese": "chega",
+        "English": "he arrives",
+        "Frequency": 53751
+    },
+    {
+        "Portuguese": "suficiente",
+        "English": "enough",
+        "Frequency": 53294
+    },
+    {
+        "Portuguese": "ter\u00e1",
+        "English": "will",
+        "Frequency": 53253
+    },
+    {
+        "Portuguese": "sabem",
+        "English": "they know",
+        "Frequency": 52825
+    },
+    {
+        "Portuguese": "caras",
+        "English": "guys",
+        "Frequency": 52702
+    },
+    {
+        "Portuguese": "fale",
+        "English": "speak",
+        "Frequency": 52605
+    },
+    {
+        "Portuguese": "quis",
+        "English": "wanted",
+        "Frequency": 52470
+    },
+    {
+        "Portuguese": "nessa",
+        "English": "in that",
+        "Frequency": 52306
+    },
+    {
+        "Portuguese": "procurando",
+        "English": "looking for",
+        "Frequency": 52271
+    },
+    {
+        "Portuguese": "durante",
+        "English": "during",
+        "Frequency": 52238
+    },
+    {
+        "Portuguese": "tr\u00e1s",
+        "English": "back",
+        "Frequency": 52105
+    },
+    {
+        "Portuguese": "vivo",
+        "English": "alive",
+        "Frequency": 52084
+    },
+    {
+        "Portuguese": "acordo",
+        "English": "agreement",
+        "Frequency": 51926
+    },
+    {
+        "Portuguese": "escute",
+        "English": "Listen",
+        "Frequency": 51817
+    },
+    {
+        "Portuguese": "minuto",
+        "English": "minute",
+        "Frequency": 51761
+    },
+    {
+        "Portuguese": "vendo",
+        "English": "selling",
+        "Frequency": 51649
+    },
+    {
+        "Portuguese": "novamente",
+        "English": "again",
+        "Frequency": 51618
+    },
+    {
+        "Portuguese": "fogo",
+        "English": "fire",
+        "Frequency": 51589
+    },
+    {
+        "Portuguese": "chegou",
+        "English": "it arrived",
+        "Frequency": 51527
+    },
+    {
+        "Portuguese": "ou\u00e7a",
+        "English": "listen",
+        "Frequency": 51470
+    },
+    {
+        "Portuguese": "crian\u00e7a",
+        "English": "child",
+        "Frequency": 51329
+    },
+    {
+        "Portuguese": "provavelmente",
+        "English": "probably",
+        "Frequency": 51247
+    },
+    {
+        "Portuguese": "poss\u00edvel",
+        "English": "possible",
+        "Frequency": 51194
+    },
+    {
+        "Portuguese": "conseguiu",
+        "English": "it achieved",
+        "Frequency": 51116
+    },
+    {
+        "Portuguese": "viver",
+        "English": "to live",
+        "Frequency": 51084
+    },
+    {
+        "Portuguese": "jantar",
+        "English": "to have lunch",
+        "Frequency": 50799
+    },
+    {
+        "Portuguese": "culpa",
+        "English": "blame",
+        "Frequency": 50637
+    },
+    {
+        "Portuguese": "equipe",
+        "English": "team",
+        "Frequency": 50451
+    },
+    {
+        "Portuguese": "achar",
+        "English": "to think",
+        "Frequency": 50424
+    },
+    {
+        "Portuguese": "falta",
+        "English": "lack",
+        "Frequency": 50317
+    },
+    {
+        "Portuguese": "pensa",
+        "English": "think",
+        "Frequency": 50177
+    },
+    {
+        "Portuguese": "sala",
+        "English": "room",
+        "Frequency": 50154
+    },
+    {
+        "Portuguese": "aonde",
+        "English": "to where",
+        "Frequency": 49986
+    },
+    {
+        "Portuguese": "falou",
+        "English": "he spoke",
+        "Frequency": 49745
+    },
+    {
+        "Portuguese": "desta",
+        "English": "this",
+        "Frequency": 49645
+    },
+    {
+        "Portuguese": "nossas",
+        "English": "our",
+        "Frequency": 49426
+    },
+    {
+        "Portuguese": "certa",
+        "English": "certain",
+        "Frequency": 49419
+    },
+    {
+        "Portuguese": "leve",
+        "English": "light",
+        "Frequency": 49175
+    },
+    {
+        "Portuguese": "\u00fanico",
+        "English": "single",
+        "Frequency": 49067
+    },
+    {
+        "Portuguese": "armas",
+        "English": "weapons",
+        "Frequency": 48987
+    },
+    {
+        "Portuguese": "puta",
+        "English": "whore",
+        "Frequency": 48895
+    },
+    {
+        "Portuguese": "mudar",
+        "English": "to change",
+        "Frequency": 48889
+    },
+    {
+        "Portuguese": "presidente",
+        "English": "president",
+        "Frequency": 48832
+    },
+    {
+        "Portuguese": "comida",
+        "English": "food",
+        "Frequency": 48744
+    },
+    {
+        "Portuguese": "ligar",
+        "English": "to connect",
+        "Frequency": 48732
+    },
+    {
+        "Portuguese": "desculpa",
+        "English": "sorry",
+        "Frequency": 48588
+    },
+    {
+        "Portuguese": "louco",
+        "English": "crazy",
+        "Frequency": 48539
+    },
+    {
+        "Portuguese": "acreditar",
+        "English": "to believe",
+        "Frequency": 48478
+    },
+    {
+        "Portuguese": "cama",
+        "English": "bed",
+        "Frequency": 48453
+    },
+    {
+        "Portuguese": "nesse",
+        "English": "in that",
+        "Frequency": 48382
+    },
+    {
+        "Portuguese": "conversar",
+        "English": "to talk",
+        "Frequency": 48324
+    },
+    {
+        "Portuguese": "perder",
+        "English": "lose",
+        "Frequency": 48074
+    },
+    {
+        "Portuguese": "pagar",
+        "English": "pay",
+        "Frequency": 48043
+    },
+    {
+        "Portuguese": "livro",
+        "English": "book",
+        "Frequency": 47979
+    },
+    {
+        "Portuguese": "faria",
+        "English": "would",
+        "Frequency": 47969
+    },
+    {
+        "Portuguese": "diferente",
+        "English": "different",
+        "Frequency": 47941
+    },
+    {
+        "Portuguese": "umas",
+        "English": "some",
+        "Frequency": 47932
+    },
+    {
+        "Portuguese": "forte",
+        "English": "strong",
+        "Frequency": 47917
+    },
+    {
+        "Portuguese": "plano",
+        "English": "flat",
+        "Frequency": 47849
+    },
+    {
+        "Portuguese": "pequeno",
+        "English": "small",
+        "Frequency": 47778
+    },
+    {
+        "Portuguese": "devemos",
+        "English": "we must",
+        "Frequency": 47594
+    },
+    {
+        "Portuguese": "existe",
+        "English": "there is",
+        "Frequency": 47464
+    },
+    {
+        "Portuguese": "trouxe",
+        "English": "he brought",
+        "Frequency": 47458
+    },
+    {
+        "Portuguese": "ouviu",
+        "English": "he heard",
+        "Frequency": 47457
+    },
+    {
+        "Portuguese": "al\u00f4",
+        "English": "hello",
+        "Frequency": 47415
+    },
+    {
+        "Portuguese": "paz",
+        "English": "peace",
+        "Frequency": 47413
+    },
+    {
+        "Portuguese": "for\u00e7a",
+        "English": "strength",
+        "Frequency": 47342
+    },
+    {
+        "Portuguese": "nele",
+        "English": "in it",
+        "Frequency": 47165
+    },
+    {
+        "Portuguese": "direito",
+        "English": "right",
+        "Frequency": 47140
+    },
+    {
+        "Portuguese": "lembro",
+        "English": "I remember",
+        "Frequency": 47088
+    },
+    {
+        "Portuguese": "pena",
+        "English": "pity",
+        "Frequency": 47036
+    },
+    {
+        "Portuguese": "dizem",
+        "English": "they say",
+        "Frequency": 46918
+    },
+    {
+        "Portuguese": "casamento",
+        "English": "marriage",
+        "Frequency": 46788
+    },
+    {
+        "Portuguese": "outras",
+        "English": "others",
+        "Frequency": 46500
+    },
+    {
+        "Portuguese": "agente",
+        "English": "agent",
+        "Frequency": 46451
+    },
+    {
+        "Portuguese": "ruim",
+        "English": "bad",
+        "Frequency": 46438
+    },
+    {
+        "Portuguese": "pedir",
+        "English": "ask",
+        "Frequency": 46354
+    },
+    {
+        "Portuguese": "estiver",
+        "English": "you are",
+        "Frequency": 46307
+    },
+    {
+        "Portuguese": "palavra",
+        "English": "word",
+        "Frequency": 46253
+    },
+    {
+        "Portuguese": "d\u00f3lares",
+        "English": "dollars",
+        "Frequency": 46179
+    },
+    {
+        "Portuguese": "entende",
+        "English": "he understands",
+        "Frequency": 46055
+    },
+    {
+        "Portuguese": "passado",
+        "English": "past",
+        "Frequency": 45758
+    },
+    {
+        "Portuguese": "luz",
+        "English": "light",
+        "Frequency": 45729
+    },
+    {
+        "Portuguese": "m\u00e9dico",
+        "English": "doctor",
+        "Frequency": 45725
+    },
+    {
+        "Portuguese": "pro",
+        "English": "pro",
+        "Frequency": 45667
+    },
+    {
+        "Portuguese": "aten\u00e7\u00e3o",
+        "English": "attention",
+        "Frequency": 45618
+    },
+    {
+        "Portuguese": "volte",
+        "English": "return",
+        "Frequency": 45561
+    },
+    {
+        "Portuguese": "m\u00fasica",
+        "English": "music",
+        "Frequency": 45258
+    },
+    {
+        "Portuguese": "final",
+        "English": "end",
+        "Frequency": 45092
+    },
+    {
+        "Portuguese": "mostrar",
+        "English": "show",
+        "Frequency": 45067
+    },
+    {
+        "Portuguese": "acabar",
+        "English": "to finish",
+        "Frequency": 45059
+    },
+    {
+        "Portuguese": "pa\u00eds",
+        "English": "country",
+        "Frequency": 44921
+    },
+    {
+        "Portuguese": "filme",
+        "English": "film",
+        "Frequency": 44744
+    },
+    {
+        "Portuguese": "adeus",
+        "English": "goodbye",
+        "Frequency": 44639
+    },
+    {
+        "Portuguese": "pr\u00f3xima",
+        "English": "next",
+        "Frequency": 44482
+    },
+    {
+        "Portuguese": "tchau",
+        "English": "goodbye",
+        "Frequency": 44473
+    },
+    {
+        "Portuguese": "olhar",
+        "English": "to look",
+        "Frequency": 44465
+    },
+    {
+        "Portuguese": "pior",
+        "English": "worse",
+        "Frequency": 44454
+    },
+    {
+        "Portuguese": "baixo",
+        "English": "low",
+        "Frequency": 44429
+    },
+    {
+        "Portuguese": "estes",
+        "English": "these",
+        "Frequency": 44403
+    },
+    {
+        "Portuguese": "fazem",
+        "English": "they do",
+        "Frequency": 44278
+    },
+    {
+        "Portuguese": "querer",
+        "English": "to want",
+        "Frequency": 44274
+    },
+    {
+        "Portuguese": "rei",
+        "English": "king",
+        "Frequency": 44217
+    },
+    {
+        "Portuguese": "ponto",
+        "English": "point",
+        "Frequency": 44147
+    },
+    {
+        "Portuguese": "seis",
+        "English": "six",
+        "Frequency": 44034
+    },
+    {
+        "Portuguese": "descobrir",
+        "English": "discover",
+        "Frequency": 43915
+    },
+    {
+        "Portuguese": "iria",
+        "English": "I would go",
+        "Frequency": 43734
+    },
+    {
+        "Portuguese": "acontece",
+        "English": "it happens",
+        "Frequency": 43675
+    },
+    {
+        "Portuguese": "semanas",
+        "English": "weeks",
+        "Frequency": 43614
+    },
+    {
+        "Portuguese": "brincando",
+        "English": "joking",
+        "Frequency": 43481
+    },
+    {
+        "Portuguese": "jovem",
+        "English": "young",
+        "Frequency": 43304
+    },
+    {
+        "Portuguese": "controle",
+        "English": "control",
+        "Frequency": 43027
+    },
+    {
+        "Portuguese": "perguntar",
+        "English": "to ask",
+        "Frequency": 42983
+    },
+    {
+        "Portuguese": "hospital",
+        "English": "hospital",
+        "Frequency": 42801
+    },
+    {
+        "Portuguese": "linda",
+        "English": "beautiful",
+        "Frequency": 42782
+    },
+    {
+        "Portuguese": "sam",
+        "English": "sam",
+        "Frequency": 42552
+    },
+    {
+        "Portuguese": "jesus",
+        "English": "Jesus",
+        "Frequency": 42332
+    },
+    {
+        "Portuguese": "chama",
+        "English": "flame",
+        "Frequency": 42237
+    },
+    {
+        "Portuguese": "resto",
+        "English": "rest",
+        "Frequency": 42168
+    },
+    {
+        "Portuguese": "pr\u00f3ximo",
+        "English": "next",
+        "Frequency": 41956
+    },
+    {
+        "Portuguese": "sob",
+        "English": "under",
+        "Frequency": 41927
+    },
+    {
+        "Portuguese": "jogar",
+        "English": "to play",
+        "Frequency": 41849
+    },
+    {
+        "Portuguese": "colocar",
+        "English": "to place",
+        "Frequency": 41814
+    },
+    {
+        "Portuguese": "esteve",
+        "English": "was",
+        "Frequency": 41786
+    },
+    {
+        "Portuguese": "fico",
+        "English": "I am",
+        "Frequency": 41486
+    },
+    {
+        "Portuguese": "rua",
+        "English": "road",
+        "Frequency": 41476
+    },
+    {
+        "Portuguese": "tu",
+        "English": "you",
+        "Frequency": 41433
+    },
+    {
+        "Portuguese": "especial",
+        "English": "special",
+        "Frequency": 41429
+    },
+    {
+        "Portuguese": "ai",
+        "English": "there",
+        "Frequency": 41408
+    },
+    {
+        "Portuguese": "chamar",
+        "English": "to call",
+        "Frequency": 41116
+    },
+    {
+        "Portuguese": "precisar",
+        "English": "to need",
+        "Frequency": 40944
+    },
+    {
+        "Portuguese": "garotas",
+        "English": "girls",
+        "Frequency": 40903
+    },
+    {
+        "Portuguese": "neg\u00f3cio",
+        "English": "business",
+        "Frequency": 40690
+    },
+    {
+        "Portuguese": "continuar",
+        "English": "continue",
+        "Frequency": 40682
+    },
+    {
+        "Portuguese": "rapazes",
+        "English": "boys",
+        "Frequency": 40574
+    },
+    {
+        "Portuguese": "vim",
+        "English": "I came",
+        "Frequency": 40565
+    },
+    {
+        "Portuguese": "p\u00e9",
+        "English": "foot",
+        "Frequency": 40553
+    },
+    {
+        "Portuguese": "falei",
+        "English": "I spoke",
+        "Frequency": 40461
+    },
+    {
+        "Portuguese": "ideia",
+        "English": "idea",
+        "Frequency": 40329
+    },
+    {
+        "Portuguese": "pegou",
+        "English": "he picked up",
+        "Frequency": 40270
+    },
+    {
+        "Portuguese": "estado",
+        "English": "state",
+        "Frequency": 40209
+    },
+    {
+        "Portuguese": "seguro",
+        "English": "insurance",
+        "Frequency": 40197
+    },
+    {
+        "Portuguese": "ajude",
+        "English": "help",
+        "Frequency": 40155
+    },
+    {
+        "Portuguese": "tire",
+        "English": "take",
+        "Frequency": 40094
+    },
+    {
+        "Portuguese": "engra\u00e7ado",
+        "English": "funny",
+        "Frequency": 40033
+    },
+    {
+        "Portuguese": "devem",
+        "English": "must",
+        "Frequency": 39973
+    },
+    {
+        "Portuguese": "cedo",
+        "English": "early",
+        "Frequency": 39725
+    },
+    {
+        "Portuguese": "\u00faltimo",
+        "English": "last",
+        "Frequency": 39681
+    },
+    {
+        "Portuguese": "saiu",
+        "English": "it went out",
+        "Frequency": 39666
+    },
+    {
+        "Portuguese": "sai",
+        "English": "exit",
+        "Frequency": 39620
+    },
+    {
+        "Portuguese": "comprar",
+        "English": "buy",
+        "Frequency": 39576
+    },
+    {
+        "Portuguese": "escrit\u00f3rio",
+        "English": "desk",
+        "Frequency": 39486
+    },
+    {
+        "Portuguese": "encontro",
+        "English": "meeting",
+        "Frequency": 39327
+    },
+    {
+        "Portuguese": "sinal",
+        "English": "signal",
+        "Frequency": 39248
+    },
+    {
+        "Portuguese": "michael",
+        "English": "Michael",
+        "Frequency": 39166
+    },
+    {
+        "Portuguese": "estas",
+        "English": "these",
+        "Frequency": 38994
+    },
+    {
+        "Portuguese": "come\u00e7ou",
+        "English": "it started",
+        "Frequency": 38990
+    },
+    {
+        "Portuguese": "pelos",
+        "English": "by the",
+        "Frequency": 38927
+    },
+    {
+        "Portuguese": "da\u00ed",
+        "English": "hence",
+        "Frequency": 38907
+    },
+    {
+        "Portuguese": "livre",
+        "English": "free",
+        "Frequency": 38688
+    },
+    {
+        "Portuguese": "respeito",
+        "English": "respect",
+        "Frequency": 38626
+    },
+    {
+        "Portuguese": "pris\u00e3o",
+        "English": "prison",
+        "Frequency": 38452
+    },
+    {
+        "Portuguese": "manter",
+        "English": "to maintain",
+        "Frequency": 38400
+    },
+    {
+        "Portuguese": "teu",
+        "English": "your",
+        "Frequency": 38354
+    },
+    {
+        "Portuguese": "incr\u00edvel",
+        "English": "incredible",
+        "Frequency": 38111
+    },
+    {
+        "Portuguese": "alto",
+        "English": "high",
+        "Frequency": 37972
+    },
+    {
+        "Portuguese": "aqueles",
+        "English": "those ones",
+        "Frequency": 37906
+    },
+    {
+        "Portuguese": "nesta",
+        "English": "in this",
+        "Frequency": 37848
+    },
+    {
+        "Portuguese": "ajud\u00e1",
+        "English": "help",
+        "Frequency": 37773
+    },
+    {
+        "Portuguese": "srta",
+        "English": "Ms.",
+        "Frequency": 37741
+    },
+    {
+        "Portuguese": "queremos",
+        "English": "we want",
+        "Frequency": 37527
+    },
+    {
+        "Portuguese": "sentido",
+        "English": "sense",
+        "Frequency": 37493
+    },
+    {
+        "Portuguese": "deste",
+        "English": "this",
+        "Frequency": 37452
+    },
+    {
+        "Portuguese": "doutor",
+        "English": "doctor",
+        "Frequency": 37382
+    },
+    {
+        "Portuguese": "passou",
+        "English": "it happened",
+        "Frequency": 37255
+    },
+    {
+        "Portuguese": "estivesse",
+        "English": "were",
+        "Frequency": 37226
+    },
+    {
+        "Portuguese": "perfeito",
+        "English": "perfect",
+        "Frequency": 37154
+    },
+    {
+        "Portuguese": "escolha",
+        "English": "choice",
+        "Frequency": 37081
+    },
+    {
+        "Portuguese": "est\u00e1vamos",
+        "English": "we were",
+        "Frequency": 36955
+    },
+    {
+        "Portuguese": "fiquei",
+        "English": "I was left",
+        "Frequency": 36927
+    },
+    {
+        "Portuguese": "andar",
+        "English": "to walk",
+        "Frequency": 36918
+    },
+    {
+        "Portuguese": "real",
+        "English": "real",
+        "Frequency": 36838
+    },
+    {
+        "Portuguese": "pr\u00f3prio",
+        "English": "own",
+        "Frequency": 36765
+    },
+    {
+        "Portuguese": "pequena",
+        "English": "small",
+        "Frequency": 36749
+    },
+    {
+        "Portuguese": "estar\u00e1",
+        "English": "will be",
+        "Frequency": 36681
+    },
+    {
+        "Portuguese": "ama",
+        "English": "Amman",
+        "Frequency": 36681
+    },
+    {
+        "Portuguese": "si",
+        "English": "yes",
+        "Frequency": 36656
+    },
+    {
+        "Portuguese": "boas",
+        "English": "good",
+        "Frequency": 36633
+    },
+    {
+        "Portuguese": "sistema",
+        "English": "system",
+        "Frequency": 36541
+    },
+    {
+        "Portuguese": "mortos",
+        "English": "dead",
+        "Frequency": 36387
+    },
+    {
+        "Portuguese": "entendeu",
+        "English": "did you understand",
+        "Frequency": 36148
+    },
+    {
+        "Portuguese": "esque\u00e7a",
+        "English": "forget",
+        "Frequency": 36133
+    },
+    {
+        "Portuguese": "milh\u00f5es",
+        "English": "millions",
+        "Frequency": 36104
+    },
+    {
+        "Portuguese": "futuro",
+        "English": "future",
+        "Frequency": 36059
+    },
+    {
+        "Portuguese": "ch\u00e3o",
+        "English": "floor",
+        "Frequency": 36051
+    },
+    {
+        "Portuguese": "pense",
+        "English": "think",
+        "Frequency": 36017
+    },
+    {
+        "Portuguese": "ar",
+        "English": "air",
+        "Frequency": 36014
+    },
+    {
+        "Portuguese": "acredita",
+        "English": "believes",
+        "Frequency": 35995
+    },
+    {
+        "Portuguese": "ganhar",
+        "English": "to win",
+        "Frequency": 35989
+    },
+    {
+        "Portuguese": "sexo",
+        "English": "sex",
+        "Frequency": 35904
+    },
+    {
+        "Portuguese": "dor",
+        "English": "pain",
+        "Frequency": 35769
+    },
+    {
+        "Portuguese": "charlie",
+        "English": "Charlie",
+        "Frequency": 35620
+    },
+    {
+        "Portuguese": "trabalhando",
+        "English": "working",
+        "Frequency": 35392
+    },
+    {
+        "Portuguese": "mente",
+        "English": "mind",
+        "Frequency": 35386
+    },
+    {
+        "Portuguese": "fato",
+        "English": "fact",
+        "Frequency": 35381
+    },
+    {
+        "Portuguese": "bonito",
+        "English": "beautiful",
+        "Frequency": 35349
+    },
+    {
+        "Portuguese": "cabelo",
+        "English": "hair",
+        "Frequency": 35234
+    },
+    {
+        "Portuguese": "las",
+        "English": "las",
+        "Frequency": 35233
+    },
+    {
+        "Portuguese": "olhando",
+        "English": "looking",
+        "Frequency": 35221
+    },
+    {
+        "Portuguese": "consegui",
+        "English": "I achieved",
+        "Frequency": 35152
+    },
+    {
+        "Portuguese": "policial",
+        "English": "police officer",
+        "Frequency": 34989
+    },
+    {
+        "Portuguese": "the",
+        "English": "the",
+        "Frequency": 34976
+    },
+    {
+        "Portuguese": "visto",
+        "English": "seen",
+        "Frequency": 34941
+    },
+    {
+        "Portuguese": "finalmente",
+        "English": "finally",
+        "Frequency": 34921
+    },
+    {
+        "Portuguese": "mesa",
+        "English": "table",
+        "Frequency": 34880
+    },
+    {
+        "Portuguese": "linha",
+        "English": "line",
+        "Frequency": 34872
+    },
+    {
+        "Portuguese": "amiga",
+        "English": "friend",
+        "Frequency": 34759
+    },
+    {
+        "Portuguese": "lhes",
+        "English": "them",
+        "Frequency": 34696
+    },
+    {
+        "Portuguese": "frank",
+        "English": "Frank",
+        "Frequency": 34584
+    },
+    {
+        "Portuguese": "presente",
+        "English": "present",
+        "Frequency": 34511
+    },
+    {
+        "Portuguese": "dez",
+        "English": "ten",
+        "Frequency": 34504
+    },
+    {
+        "Portuguese": "modo",
+        "English": "mode",
+        "Frequency": 34464
+    },
+    {
+        "Portuguese": "abra",
+        "English": "open",
+        "Frequency": 34393
+    },
+    {
+        "Portuguese": "rapaz",
+        "English": "boy",
+        "Frequency": 34337
+    },
+    {
+        "Portuguese": "salvar",
+        "English": "save",
+        "Frequency": 34303
+    },
+    {
+        "Portuguese": "palavras",
+        "English": "words",
+        "Frequency": 34297
+    },
+    {
+        "Portuguese": "cuidar",
+        "English": "to care",
+        "Frequency": 34182
+    },
+    {
+        "Portuguese": "anda",
+        "English": "walk",
+        "Frequency": 34062
+    },
+    {
+        "Portuguese": "situa\u00e7\u00e3o",
+        "English": "situation",
+        "Frequency": 33909
+    },
+    {
+        "Portuguese": "tom",
+        "English": "tone",
+        "Frequency": 33905
+    },
+    {
+        "Portuguese": "ap\u00f3s",
+        "English": "after",
+        "Frequency": 33762
+    },
+    {
+        "Portuguese": "cale",
+        "English": "shut",
+        "Frequency": 33761
+    },
+    {
+        "Portuguese": "disseram",
+        "English": "they said",
+        "Frequency": 33750
+    },
+    {
+        "Portuguese": "tua",
+        "English": "your",
+        "Frequency": 33703
+    },
+    {
+        "Portuguese": "conhecer",
+        "English": "to know",
+        "Frequency": 33699
+    },
+    {
+        "Portuguese": "assassino",
+        "English": "assassin",
+        "Frequency": 33649
+    },
+    {
+        "Portuguese": "passa",
+        "English": "raisin",
+        "Frequency": 33336
+    },
+    {
+        "Portuguese": "lindo",
+        "English": "beautiful",
+        "Frequency": 33305
+    },
+    {
+        "Portuguese": "tente",
+        "English": "try",
+        "Frequency": 33268
+    },
+    {
+        "Portuguese": "pr\u00f3pria",
+        "English": "own",
+        "Frequency": 33261
+    },
+    {
+        "Portuguese": "continue",
+        "English": "continue",
+        "Frequency": 33261
+    },
+    {
+        "Portuguese": "estive",
+        "English": "I was",
+        "Frequency": 33198
+    },
+    {
+        "Portuguese": "entender",
+        "English": "to understand",
+        "Frequency": 33167
+    },
+    {
+        "Portuguese": "peguei",
+        "English": "I got",
+        "Frequency": 33146
+    },
+    {
+        "Portuguese": "casar",
+        "English": "to marry",
+        "Frequency": 33131
+    },
+    {
+        "Portuguese": "perdeu",
+        "English": "it lost",
+        "Frequency": 33111
+    },
+    {
+        "Portuguese": "sozinha",
+        "English": "alone",
+        "Frequency": 33104
+    },
+    {
+        "Portuguese": "avi\u00e3o",
+        "English": "plane",
+        "Frequency": 33073
+    },
+    {
+        "Portuguese": "preso",
+        "English": "prisoner",
+        "Frequency": 33028
+    },
+    {
+        "Portuguese": "conosco",
+        "English": "with us",
+        "Frequency": 32894
+    },
+    {
+        "Portuguese": "contou",
+        "English": "told",
+        "Frequency": 32725
+    },
+    {
+        "Portuguese": "simples",
+        "English": "simple",
+        "Frequency": 32722
+    },
+    {
+        "Portuguese": "est\u00e1s",
+        "English": "these",
+        "Frequency": 32664
+    },
+    {
+        "Portuguese": "lamento",
+        "English": "I'm sorry",
+        "Frequency": 32656
+    },
+    {
+        "Portuguese": "ficar\u00e1",
+        "English": "it will stay",
+        "Frequency": 32647
+    },
+    {
+        "Portuguese": "grandes",
+        "English": "large",
+        "Frequency": 32603
+    },
+    {
+        "Portuguese": "emprego",
+        "English": "job",
+        "Frequency": 32601
+    },
+    {
+        "Portuguese": "estaria",
+        "English": "would be",
+        "Frequency": 32476
+    },
+    {
+        "Portuguese": "odeio",
+        "English": "I hate",
+        "Frequency": 32473
+    },
+    {
+        "Portuguese": "entendi",
+        "English": "I understood",
+        "Frequency": 32464
+    },
+    {
+        "Portuguese": "bonita",
+        "English": "beautiful",
+        "Frequency": 32429
+    },
+    {
+        "Portuguese": "ordem",
+        "English": "order",
+        "Frequency": 32422
+    },
+    {
+        "Portuguese": "local",
+        "English": "local",
+        "Frequency": 32408
+    },
+    {
+        "Portuguese": "pediu",
+        "English": "he requested",
+        "Frequency": 32407
+    },
+    {
+        "Portuguese": "tio",
+        "English": "uncle",
+        "Frequency": 32373
+    },
+    {
+        "Portuguese": "achou",
+        "English": "he thought",
+        "Frequency": 32318
+    },
+    {
+        "Portuguese": "olho",
+        "English": "eye",
+        "Frequency": 32126
+    },
+    {
+        "Portuguese": "crime",
+        "English": "crime",
+        "Frequency": 32055
+    },
+    {
+        "Portuguese": "voltou",
+        "English": "it returned",
+        "Frequency": 31969
+    },
+    {
+        "Portuguese": "farei",
+        "English": "I will do",
+        "Frequency": 31964
+    },
+    {
+        "Portuguese": "fizeram",
+        "English": "they did",
+        "Frequency": 31944
+    },
+    {
+        "Portuguese": "encontrei",
+        "English": "I found",
+        "Frequency": 31943
+    },
+    {
+        "Portuguese": "normal",
+        "English": "normal",
+        "Frequency": 31913
+    },
+    {
+        "Portuguese": "partir",
+        "English": "depart",
+        "Frequency": 31886
+    },
+    {
+        "Portuguese": "sol",
+        "English": "sun",
+        "Frequency": 31873
+    },
+    {
+        "Portuguese": "soube",
+        "English": "I knew",
+        "Frequency": 31871
+    },
+    {
+        "Portuguese": "lista",
+        "English": "list",
+        "Frequency": 31847
+    },
+    {
+        "Portuguese": "ataque",
+        "English": "attack",
+        "Frequency": 31798
+    },
+    {
+        "Portuguese": "viagem",
+        "English": "trip",
+        "Frequency": 31776
+    },
+    {
+        "Portuguese": "uh",
+        "English": "uh",
+        "Frequency": 31719
+    },
+    {
+        "Portuguese": "vontade",
+        "English": "willing",
+        "Frequency": 31704
+    },
+    {
+        "Portuguese": "rosto",
+        "English": "face",
+        "Frequency": 31702
+    },
+    {
+        "Portuguese": "chamado",
+        "English": "called",
+        "Frequency": 31697
+    },
+    {
+        "Portuguese": "doente",
+        "English": "sick",
+        "Frequency": 31681
+    },
+    {
+        "Portuguese": "foto",
+        "English": "photo",
+        "Frequency": 31568
+    },
+    {
+        "Portuguese": "inferno",
+        "English": "hell",
+        "Frequency": 31414
+    },
+    {
+        "Portuguese": "acabei",
+        "English": "I finished",
+        "Frequency": 31306
+    },
+    {
+        "Portuguese": "hotel",
+        "English": "hotel",
+        "Frequency": 31233
+    },
+    {
+        "Portuguese": "acidente",
+        "English": "accident",
+        "Frequency": 31162
+    },
+    {
+        "Portuguese": "tome",
+        "English": "take",
+        "Frequency": 31070
+    },
+    {
+        "Portuguese": "tv",
+        "English": "TV",
+        "Frequency": 31004
+    },
+    {
+        "Portuguese": "mensagem",
+        "English": "message",
+        "Frequency": 30973
+    },
+    {
+        "Portuguese": "levou",
+        "English": "he took",
+        "Frequency": 30936
+    },
+    {
+        "Portuguese": "david",
+        "English": "David",
+        "Frequency": 30921
+    },
+    {
+        "Portuguese": "grupo",
+        "English": "group",
+        "Frequency": 30909
+    },
+    {
+        "Portuguese": "natal",
+        "English": "Christmas",
+        "Frequency": 30894
+    },
+    {
+        "Portuguese": "senhores",
+        "English": "sirs",
+        "Frequency": 30891
+    },
+    {
+        "Portuguese": "segunda",
+        "English": "second",
+        "Frequency": 30885
+    },
+    {
+        "Portuguese": "george",
+        "English": "George",
+        "Frequency": 30878
+    },
+    {
+        "Portuguese": "servi\u00e7o",
+        "English": "service",
+        "Frequency": 30864
+    },
+    {
+        "Portuguese": "professor",
+        "English": "teacher",
+        "Frequency": 30855
+    },
+    {
+        "Portuguese": "terminar",
+        "English": "finish",
+        "Frequency": 30845
+    },
+    {
+        "Portuguese": "menina",
+        "English": "girl",
+        "Frequency": 30830
+    },
+    {
+        "Portuguese": "melhores",
+        "English": "best",
+        "Frequency": 30802
+    },
+    {
+        "Portuguese": "ligue",
+        "English": "call",
+        "Frequency": 30703
+    },
+    {
+        "Portuguese": "precisam",
+        "English": "need",
+        "Frequency": 30645
+    },
+    {
+        "Portuguese": "caixa",
+        "English": "box",
+        "Frequency": 30609
+    },
+    {
+        "Portuguese": "nave",
+        "English": "spaceship",
+        "Frequency": 30603
+    },
+    {
+        "Portuguese": "general",
+        "English": "general",
+        "Frequency": 30587
+    },
+    {
+        "Portuguese": "perguntas",
+        "English": "questions",
+        "Frequency": 30571
+    },
+    {
+        "Portuguese": "sonho",
+        "English": "dream",
+        "Frequency": 30551
+    },
+    {
+        "Portuguese": "ex\u00e9rcito",
+        "English": "army",
+        "Frequency": 30541
+    },
+    {
+        "Portuguese": "simplesmente",
+        "English": "simply",
+        "Frequency": 30494
+    },
+    {
+        "Portuguese": "povo",
+        "English": "people",
+        "Frequency": 30476
+    },
+    {
+        "Portuguese": "quente",
+        "English": "warm",
+        "Frequency": 30414
+    },
+    {
+        "Portuguese": "campo",
+        "English": "field",
+        "Frequency": 30395
+    },
+    {
+        "Portuguese": "trazer",
+        "English": "to bring",
+        "Frequency": 30385
+    },
+    {
+        "Portuguese": "resposta",
+        "English": "response",
+        "Frequency": 30366
+    },
+    {
+        "Portuguese": "irei",
+        "English": "I will go",
+        "Frequency": 30344
+    },
+    {
+        "Portuguese": "continua",
+        "English": "continues",
+        "Frequency": 30317
+    },
+    {
+        "Portuguese": "tiver",
+        "English": "have",
+        "Frequency": 30272
+    },
+    {
+        "Portuguese": "voce",
+        "English": "you",
+        "Frequency": 30239
+    },
+    {
+        "Portuguese": "estarei",
+        "English": "I will be",
+        "Frequency": 30192
+    },
+    {
+        "Portuguese": "anivers\u00e1rio",
+        "English": "birthday",
+        "Frequency": 30185
+    },
+    {
+        "Portuguese": "morta",
+        "English": "dead",
+        "Frequency": 30185
+    },
+    {
+        "Portuguese": "abrir",
+        "English": "open",
+        "Frequency": 30121
+    },
+    {
+        "Portuguese": "guarda",
+        "English": "guard",
+        "Frequency": 30079
+    },
+    {
+        "Portuguese": "usando",
+        "English": "using",
+        "Frequency": 29895
+    },
+    {
+        "Portuguese": "lev\u00e1",
+        "English": "he takes",
+        "Frequency": 29872
+    },
+    {
+        "Portuguese": "trabalha",
+        "English": "it works",
+        "Frequency": 29872
+    },
+    {
+        "Portuguese": "menino",
+        "English": "boy",
+        "Frequency": 29849
+    },
+    {
+        "Portuguese": "harry",
+        "English": "Harry",
+        "Frequency": 29791
+    },
+    {
+        "Portuguese": "quest\u00e3o",
+        "English": "question",
+        "Frequency": 29663
+    },
+    {
+        "Portuguese": "porqu\u00ea",
+        "English": "why",
+        "Frequency": 29597
+    },
+    {
+        "Portuguese": "mike",
+        "English": "Mike",
+        "Frequency": 29514
+    },
+    {
+        "Portuguese": "banco",
+        "English": "bank",
+        "Frequency": 29496
+    },
+    {
+        "Portuguese": "idade",
+        "English": "age",
+        "Frequency": 29429
+    },
+    {
+        "Portuguese": "meia",
+        "English": "half",
+        "Frequency": 29368
+    },
+    {
+        "Portuguese": "penso",
+        "English": "I think",
+        "Frequency": 29345
+    },
+    {
+        "Portuguese": "vale",
+        "English": "OK",
+        "Frequency": 29324
+    },
+    {
+        "Portuguese": "\u00e1rea",
+        "English": "area",
+        "Frequency": 29273
+    },
+    {
+        "Portuguese": "maldito",
+        "English": "damned",
+        "Frequency": 29269
+    },
+    {
+        "Portuguese": "pelas",
+        "English": "by",
+        "Frequency": 29095
+    },
+    {
+        "Portuguese": "quantos",
+        "English": "how many",
+        "Frequency": 29062
+    },
+    {
+        "Portuguese": "leva",
+        "English": "he takes",
+        "Frequency": 28972
+    },
+    {
+        "Portuguese": "gra\u00e7as",
+        "English": "thanks",
+        "Frequency": 28964
+    },
+    {
+        "Portuguese": "beber",
+        "English": "to drink",
+        "Frequency": 28936
+    },
+    {
+        "Portuguese": "voz",
+        "English": "voice",
+        "Frequency": 28895
+    },
+    {
+        "Portuguese": "namorada",
+        "English": "girlfriend",
+        "Frequency": 28855
+    },
+    {
+        "Portuguese": "encontrou",
+        "English": "it found",
+        "Frequency": 28826
+    },
+    {
+        "Portuguese": "lembrar",
+        "English": "to remember",
+        "Frequency": 28794
+    },
+    {
+        "Portuguese": "dei",
+        "English": "I gave",
+        "Frequency": 28765
+    },
+    {
+        "Portuguese": "mat\u00e1",
+        "English": "kill",
+        "Frequency": 28762
+    },
+    {
+        "Portuguese": "companhia",
+        "English": "company",
+        "Frequency": 28747
+    },
+    {
+        "Portuguese": "mestre",
+        "English": "teacher",
+        "Frequency": 28723
+    },
+    {
+        "Portuguese": "barco",
+        "English": "boat",
+        "Frequency": 28721
+    },
+    {
+        "Portuguese": "deix\u00e1",
+        "English": "he leaves",
+        "Frequency": 28606
+    },
+    {
+        "Portuguese": "mau",
+        "English": "bad",
+        "Frequency": 28451
+    },
+    {
+        "Portuguese": "erro",
+        "English": "error",
+        "Frequency": 28436
+    },
+    {
+        "Portuguese": "c\u00e9u",
+        "English": "sky",
+        "Frequency": 28435
+    },
+    {
+        "Portuguese": "prometo",
+        "English": "I promise",
+        "Frequency": 28292
+    },
+    {
+        "Portuguese": "ligou",
+        "English": "called",
+        "Frequency": 28204
+    },
+    {
+        "Portuguese": "seguir",
+        "English": "follow",
+        "Frequency": 28198
+    },
+    {
+        "Portuguese": "pudesse",
+        "English": "could",
+        "Frequency": 28191
+    },
+    {
+        "Portuguese": "perdi",
+        "English": "I lost",
+        "Frequency": 28179
+    },
+    {
+        "Portuguese": "surpresa",
+        "English": "surprise",
+        "Frequency": 28106
+    },
+    {
+        "Portuguese": "neg\u00f3cios",
+        "English": "business",
+        "Frequency": 28083
+    },
+    {
+        "Portuguese": "fome",
+        "English": "hunger",
+        "Frequency": 28034
+    },
+    {
+        "Portuguese": "conversa",
+        "English": "conversation",
+        "Frequency": 28025
+    },
+    {
+        "Portuguese": "programa",
+        "English": "program",
+        "Frequency": 27998
+    },
+    {
+        "Portuguese": "lutar",
+        "English": "to fight",
+        "Frequency": 27990
+    },
+    {
+        "Portuguese": "diria",
+        "English": "I would say",
+        "Frequency": 27957
+    },
+    {
+        "Portuguese": "miss\u00e3o",
+        "English": "mission",
+        "Frequency": 27940
+    },
+    {
+        "Portuguese": "not\u00edcias",
+        "English": "news",
+        "Frequency": 27937
+    },
+    {
+        "Portuguese": "chave",
+        "English": "key",
+        "Frequency": 27933
+    },
+    {
+        "Portuguese": "olhada",
+        "English": "look",
+        "Frequency": 27893
+    },
+    {
+        "Portuguese": "m\u00eas",
+        "English": "month",
+        "Frequency": 27869
+    },
+    {
+        "Portuguese": "dando",
+        "English": "giving",
+        "Frequency": 27850
+    },
+    {
+        "Portuguese": "far\u00e1",
+        "English": "will",
+        "Frequency": 27828
+    },
+    {
+        "Portuguese": "fotos",
+        "English": "photos",
+        "Frequency": 27716
+    },
+    {
+        "Portuguese": "ouvindo",
+        "English": "listening",
+        "Frequency": 27711
+    },
+    {
+        "Portuguese": "coloque",
+        "English": "put",
+        "Frequency": 27701
+    },
+    {
+        "Portuguese": "fundo",
+        "English": "bottom",
+        "Frequency": 27631
+    },
+    {
+        "Portuguese": "ler",
+        "English": "to read",
+        "Frequency": 27630
+    },
+    {
+        "Portuguese": "governo",
+        "English": "government",
+        "Frequency": 27608
+    },
+    {
+        "Portuguese": "faz\u00ea",
+        "English": "to do",
+        "Frequency": 27573
+    },
+    {
+        "Portuguese": "adoro",
+        "English": "I adore",
+        "Frequency": 27507
+    },
+    {
+        "Portuguese": "banheiro",
+        "English": "bathroom",
+        "Frequency": 27492
+    },
+    {
+        "Portuguese": "explicar",
+        "English": "explain",
+        "Frequency": 27489
+    },
+    {
+        "Portuguese": "chame",
+        "English": "call",
+        "Frequency": 27489
+    },
+    {
+        "Portuguese": "advogado",
+        "English": "attorney",
+        "Frequency": 27440
+    },
+    {
+        "Portuguese": "totalmente",
+        "English": "fully",
+        "Frequency": 27418
+    },
+    {
+        "Portuguese": "juro",
+        "English": "interest",
+        "Frequency": 27405
+    },
+    {
+        "Portuguese": "contato",
+        "English": "contact",
+        "Frequency": 27370
+    },
+    {
+        "Portuguese": "metade",
+        "English": "half",
+        "Frequency": 27370
+    },
+    {
+        "Portuguese": "ficando",
+        "English": "staying",
+        "Frequency": 27301
+    },
+    {
+        "Portuguese": "funciona",
+        "English": "it works",
+        "Frequency": 27274
+    },
+    {
+        "Portuguese": "loja",
+        "English": "store",
+        "Frequency": 27255
+    },
+    {
+        "Portuguese": "joe",
+        "English": "joe",
+        "Frequency": 27252
+    },
+    {
+        "Portuguese": "precisava",
+        "English": "needed",
+        "Frequency": 27251
+    },
+    {
+        "Portuguese": "cachorro",
+        "English": "puppy",
+        "Frequency": 27210
+    },
+    {
+        "Portuguese": "procurar",
+        "English": "to search for",
+        "Frequency": 27179
+    },
+    {
+        "Portuguese": "traga",
+        "English": "bring",
+        "Frequency": 27121
+    },
+    {
+        "Portuguese": "peter",
+        "English": "Peter",
+        "Frequency": 27086
+    },
+    {
+        "Portuguese": "\u00f3tima",
+        "English": "excellent",
+        "Frequency": 27039
+    },
+    {
+        "Portuguese": "motivo",
+        "English": "reason",
+        "Frequency": 27024
+    },
+    {
+        "Portuguese": "lei",
+        "English": "law",
+        "Frequency": 27018
+    },
+    {
+        "Portuguese": "segundos",
+        "English": "seconds",
+        "Frequency": 27005
+    },
+    {
+        "Portuguese": "completamente",
+        "English": "completely",
+        "Frequency": 26991
+    },
+    {
+        "Portuguese": "tradu\u00e7\u00e3o",
+        "English": "translation",
+        "Frequency": 26853
+    },
+    {
+        "Portuguese": "apartamento",
+        "English": "apartment",
+        "Frequency": 26739
+    },
+    {
+        "Portuguese": "saiba",
+        "English": "know",
+        "Frequency": 26728
+    },
+    {
+        "Portuguese": "frio",
+        "English": "cold",
+        "Frequency": 26721
+    },
+    {
+        "Portuguese": "mandou",
+        "English": "sent",
+        "Frequency": 26715
+    },
+    {
+        "Portuguese": "bons",
+        "English": "good",
+        "Frequency": 26682
+    },
+    {
+        "Portuguese": "esquerda",
+        "English": "left",
+        "Frequency": 26623
+    },
+    {
+        "Portuguese": "teremos",
+        "English": "we will",
+        "Frequency": 26563
+    },
+    {
+        "Portuguese": "fomos",
+        "English": "we were",
+        "Frequency": 26545
+    },
+    {
+        "Portuguese": "saindo",
+        "English": "leaving",
+        "Frequency": 26498
+    },
+    {
+        "Portuguese": "roupa",
+        "English": "clothing",
+        "Frequency": 26478
+    },
+    {
+        "Portuguese": "carta",
+        "English": "letter",
+        "Frequency": 26456
+    },
+    {
+        "Portuguese": "buscar",
+        "English": "search",
+        "Frequency": 26447
+    },
+    {
+        "Portuguese": "somente",
+        "English": "only",
+        "Frequency": 26259
+    },
+    {
+        "Portuguese": "espa\u00e7o",
+        "English": "space",
+        "Frequency": 26256
+    },
+    {
+        "Portuguese": "haver",
+        "English": "be",
+        "Frequency": 26251
+    },
+    {
+        "Portuguese": "embaixo",
+        "English": "below",
+        "Frequency": 26231
+    },
+    {
+        "Portuguese": "vista",
+        "English": "view",
+        "Frequency": 26222
+    },
+    {
+        "Portuguese": "disto",
+        "English": "of this",
+        "Frequency": 26212
+    },
+    {
+        "Portuguese": "parab\u00e9ns",
+        "English": "congratulations",
+        "Frequency": 26208
+    },
+    {
+        "Portuguese": "naquela",
+        "English": "in that",
+        "Frequency": 26174
+    },
+    {
+        "Portuguese": "tocar",
+        "English": "touch",
+        "Frequency": 26141
+    },
+    {
+        "Portuguese": "interessante",
+        "English": "interesting",
+        "Frequency": 26100
+    },
+    {
+        "Portuguese": "namorado",
+        "English": "boyfriend",
+        "Frequency": 25976
+    },
+    {
+        "Portuguese": "fizemos",
+        "English": "we did",
+        "Frequency": 25970
+    },
+    {
+        "Portuguese": "segredo",
+        "English": "secret",
+        "Frequency": 25949
+    },
+    {
+        "Portuguese": "tenente",
+        "English": "lieutenant",
+        "Frequency": 25941
+    },
+    {
+        "Portuguese": "tentei",
+        "English": "I tried",
+        "Frequency": 25938
+    },
+    {
+        "Portuguese": "velha",
+        "English": "old",
+        "Frequency": 25883
+    },
+    {
+        "Portuguese": "assunto",
+        "English": "subject",
+        "Frequency": 25810
+    },
+    {
+        "Portuguese": "tentou",
+        "English": "tried",
+        "Frequency": 25769
+    },
+    {
+        "Portuguese": "senti",
+        "English": "I felt",
+        "Frequency": 25762
+    },
+    {
+        "Portuguese": "ben",
+        "English": "ben",
+        "Frequency": 25751
+    },
+    {
+        "Portuguese": "posi\u00e7\u00e3o",
+        "English": "position",
+        "Frequency": 25750
+    },
+    {
+        "Portuguese": "luta",
+        "English": "fight",
+        "Frequency": 25727
+    },
+    {
+        "Portuguese": "passada",
+        "English": "past",
+        "Frequency": 25662
+    },
+    {
+        "Portuguese": "norte",
+        "English": "north",
+        "Frequency": 25621
+    },
+    {
+        "Portuguese": "conte",
+        "English": "tell",
+        "Frequency": 25582
+    },
+    {
+        "Portuguese": "reuni\u00e3o",
+        "English": "meeting",
+        "Frequency": 25565
+    },
+    {
+        "Portuguese": "divertido",
+        "English": "fun",
+        "Frequency": 25536
+    },
+    {
+        "Portuguese": "roupas",
+        "English": "clothes",
+        "Frequency": 25526
+    },
+    {
+        "Portuguese": "sete",
+        "English": "seven",
+        "Frequency": 25521
+    },
+    {
+        "Portuguese": "horr\u00edvel",
+        "English": "horrible",
+        "Frequency": 25502
+    },
+    {
+        "Portuguese": "destino",
+        "English": "destination",
+        "Frequency": 25489
+    },
+    {
+        "Portuguese": "viva",
+        "English": "alive",
+        "Frequency": 25445
+    },
+    {
+        "Portuguese": "nela",
+        "English": "in it",
+        "Frequency": 25420
+    },
+    {
+        "Portuguese": "garotos",
+        "English": "boys",
+        "Frequency": 25418
+    },
+    {
+        "Portuguese": "creio",
+        "English": "I believe",
+        "Frequency": 25407
+    },
+    {
+        "Portuguese": "depressa",
+        "English": "quickly",
+        "Frequency": 25359
+    },
+    {
+        "Portuguese": "aposto",
+        "English": "I bet",
+        "Frequency": 25324
+    },
+    {
+        "Portuguese": "fazemos",
+        "English": "we do",
+        "Frequency": 25321
+    },
+    {
+        "Portuguese": "vidas",
+        "English": "lives",
+        "Frequency": 25262
+    },
+    {
+        "Portuguese": "energia",
+        "English": "energy",
+        "Frequency": 25257
+    },
+    {
+        "Portuguese": "costas",
+        "English": "back",
+        "Frequency": 25227
+    },
+    {
+        "Portuguese": "n\u00e9",
+        "English": "right",
+        "Frequency": 25155
+    },
+    {
+        "Portuguese": "drogas",
+        "English": "drugs",
+        "Frequency": 25082
+    },
+    {
+        "Portuguese": "papel",
+        "English": "paper",
+        "Frequency": 25075
+    },
+    {
+        "Portuguese": "falo",
+        "English": "I talk",
+        "Frequency": 25069
+    },
+    {
+        "Portuguese": "faremos",
+        "English": "we will",
+        "Frequency": 25042
+    },
+    {
+        "Portuguese": "entendido",
+        "English": "understood",
+        "Frequency": 25040
+    },
+    {
+        "Portuguese": "direita",
+        "English": "right",
+        "Frequency": 24981
+    },
+    {
+        "Portuguese": "mandar",
+        "English": "to send",
+        "Frequency": 24969
+    },
+    {
+        "Portuguese": "estrada",
+        "English": "road",
+        "Frequency": 24946
+    },
+    {
+        "Portuguese": "mudou",
+        "English": "changed",
+        "Frequency": 24895
+    },
+    {
+        "Portuguese": "tivemos",
+        "English": "we had",
+        "Frequency": 24861
+    },
+    {
+        "Portuguese": "hey",
+        "English": "hey",
+        "Frequency": 24820
+    },
+    {
+        "Portuguese": "cair",
+        "English": "to fall",
+        "Frequency": 24809
+    },
+    {
+        "Portuguese": "verdadeiro",
+        "English": "true",
+        "Frequency": 24769
+    },
+    {
+        "Portuguese": "levante",
+        "English": "get up",
+        "Frequency": 24700
+    },
+    {
+        "Portuguese": "alma",
+        "English": "soul",
+        "Frequency": 24665
+    },
+    {
+        "Portuguese": "imposs\u00edvel",
+        "English": "impossible",
+        "Frequency": 24661
+    },
+    {
+        "Portuguese": "parecia",
+        "English": "it seemed",
+        "Frequency": 24654
+    },
+    {
+        "Portuguese": "assassinato",
+        "English": "murder",
+        "Frequency": 24601
+    },
+    {
+        "Portuguese": "pe\u00e7a",
+        "English": "part",
+        "Frequency": 24555
+    },
+    {
+        "Portuguese": "coronel",
+        "English": "colonel",
+        "Frequency": 24515
+    },
+    {
+        "Portuguese": "naquele",
+        "English": "in that",
+        "Frequency": 24501
+    },
+    {
+        "Portuguese": "loucura",
+        "English": "craziness",
+        "Frequency": 24417
+    }
+]
