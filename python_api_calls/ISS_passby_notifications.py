@@ -153,8 +153,7 @@ try:
 
 
         # The ISS is passing nearby: Send emails until out of range!!
-        # if (abs(MY_LATITUDE - iss_latitude) <= 5) and (abs(MY_LONGITUDE - iss_longitude) <= 5):
-        if 1 == 1:
+        if (abs(MY_LATITUDE - iss_latitude) <= 5) and (abs(MY_LONGITUDE - iss_longitude) <= 5):
             msg = EmailMessage()
             msg["Subject"] = "The ISS is passing nearby!"
             msg["From"] = SENDER_EMAIL
