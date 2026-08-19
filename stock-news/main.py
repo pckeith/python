@@ -119,7 +119,7 @@ def fetch_stock_data(ticker, stock_api_key, stock_endpoint):
         if len(prices) == 2:
             latest_close, prev_close = prices[0], prices[1]
             percentage_change = abs((latest_close - prev_close) / prev_close) * 100
-            # Track if the change meets or exceeds 5%
+            # Track if the change meets or exceeds the Significant Change threshold
             if percentage_change >= PRICE_CHANGE_THRESHOLD_PCT:
                 significant_change = True
                 output.append(f"  - Price Change: {percentage_change:.2f}% (Significant)")
@@ -201,7 +201,7 @@ SENDER_PASSWORD = os.getenv("SENDER_PASSWORD")
 email_body_content = f"Stock and News Report - Generated on {datetime.now().strftime('%Y-%m-%d %H:%M')}\n"
 email_body_content += "=" * 60 + "\n"
 
-# Keep track of how many tickers had a >= 5% change
+# Keep track of how many tickers had a >= Significant Change threshold
 significant_ticker_count = 0
 
 # 2. Iterate through tickers and compile the reports
